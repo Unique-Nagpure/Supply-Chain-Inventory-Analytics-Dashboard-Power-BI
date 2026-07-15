@@ -1,0 +1,2001 @@
+ProductID,ProductName,Category,Brand,UnitPrice,ReorderLevel
+1,Home Appliance Product 1,Home Appliances,HP,59.77,90
+2,Furniture Product 2,Furniture,Sony,287.68,46
+3,Home Appliance Product 3,Home Appliances,Philips,183.01,128
+4,Electronic Product 4,Electronics,Dell,196.45,79
+5,Sport Product 5,Sports,Lenovo,62.81,70
+6,Home Appliance Product 6,Home Appliances,Philips,844.84,134
+7,Sport Product 7,Sports,LG,1620.77,21
+8,Office Supplie Product 8,Office Supplies,Samsung,1399.3,107
+9,Grocery Product 9,Grocery,Samsung,438.47,106
+10,Electronic Product 10,Electronics,HP,766.06,111
+11,Office Supplie Product 11,Office Supplies,Nike,1211.41,31
+12,Home Appliance Product 12,Home Appliances,Ikea,1077.09,116
+13,Electronic Product 13,Electronics,Philips,593.42,180
+14,Sport Product 14,Sports,Nike,1158.93,200
+15,Electronic Product 15,Electronics,Dell,1325.91,94
+16,Electronic Product 16,Electronics,Sony,1734.3,117
+17,Grocery Product 17,Grocery,Ikea,1275.01,113
+18,Furniture Product 18,Furniture,Nike,716.99,191
+19,Grocery Product 19,Grocery,HP,1222.17,63
+20,Sport Product 20,Sports,Sony,335.17,117
+21,Grocery Product 21,Grocery,Philips,447.03,103
+22,Office Supplie Product 22,Office Supplies,Dell,465.81,28
+23,Office Supplie Product 23,Office Supplies,Nike,808.32,36
+24,Furniture Product 24,Furniture,Lenovo,1753.97,100
+25,Furniture Product 25,Furniture,Ikea,797.31,184
+26,Clothing Product 26,Clothing,Samsung,537.11,83
+27,Home Appliance Product 27,Home Appliances,Philips,1082.56,169
+28,Clothing Product 28,Clothing,Lenovo,804.81,76
+29,Furniture Product 29,Furniture,Philips,992.1,32
+30,Office Supplie Product 30,Office Supplies,HP,314.15,60
+31,Office Supplie Product 31,Office Supplies,Adidas,1196.85,118
+32,Clothing Product 32,Clothing,Lenovo,1992.28,155
+33,Grocery Product 33,Grocery,Philips,1722.95,22
+34,Home Appliance Product 34,Home Appliances,HP,1366.6,157
+35,Office Supplie Product 35,Office Supplies,LG,1539.51,107
+36,Electronic Product 36,Electronics,LG,875.18,136
+37,Electronic Product 37,Electronics,LG,1944.06,65
+38,Sport Product 38,Sports,HP,1742.33,96
+39,Office Supplie Product 39,Office Supplies,Philips,1221.85,59
+40,Grocery Product 40,Grocery,Samsung,1083.36,155
+41,Electronic Product 41,Electronics,Lenovo,655.07,24
+42,Electronic Product 42,Electronics,Nike,1758.66,98
+43,Furniture Product 43,Furniture,Dell,489.33,165
+44,Electronic Product 44,Electronics,HP,1466.5,37
+45,Office Supplie Product 45,Office Supplies,Philips,1534.01,52
+46,Home Appliance Product 46,Home Appliances,Ikea,1894.23,62
+47,Grocery Product 47,Grocery,Philips,1746.14,128
+48,Furniture Product 48,Furniture,Philips,1512.98,196
+49,Furniture Product 49,Furniture,LG,803.99,191
+50,Home Appliance Product 50,Home Appliances,Nike,881.82,152
+51,Clothing Product 51,Clothing,HP,503.33,36
+52,Grocery Product 52,Grocery,Dell,1180.73,78
+53,Sport Product 53,Sports,Sony,24.31,181
+54,Electronic Product 54,Electronics,Sony,144.13,28
+55,Office Supplie Product 55,Office Supplies,Nike,151.01,80
+56,Grocery Product 56,Grocery,Ikea,436.33,53
+57,Home Appliance Product 57,Home Appliances,Lenovo,1156.66,82
+58,Office Supplie Product 58,Office Supplies,Ikea,1616.92,68
+59,Electronic Product 59,Electronics,HP,1321.38,110
+60,Clothing Product 60,Clothing,Adidas,939.38,33
+61,Home Appliance Product 61,Home Appliances,HP,130.62,106
+62,Office Supplie Product 62,Office Supplies,HP,504.83,68
+63,Sport Product 63,Sports,Ikea,288.96,66
+64,Grocery Product 64,Grocery,Ikea,507.11,39
+65,Clothing Product 65,Clothing,Philips,204.84,186
+66,Sport Product 66,Sports,Dell,1938.3,80
+67,Furniture Product 67,Furniture,Adidas,976.43,74
+68,Office Supplie Product 68,Office Supplies,Adidas,1805.86,62
+69,Clothing Product 69,Clothing,Dell,1970.76,87
+70,Office Supplie Product 70,Office Supplies,Ikea,577.65,198
+71,Home Appliance Product 71,Home Appliances,Philips,1327.12,144
+72,Furniture Product 72,Furniture,Sony,600.45,34
+73,Sport Product 73,Sports,Philips,131.31,100
+74,Electronic Product 74,Electronics,Dell,1172.51,148
+75,Office Supplie Product 75,Office Supplies,Philips,323.29,150
+76,Electronic Product 76,Electronics,Samsung,146.36,37
+77,Home Appliance Product 77,Home Appliances,Sony,813.51,165
+78,Furniture Product 78,Furniture,Lenovo,1193.09,178
+79,Electronic Product 79,Electronics,Adidas,1318.17,164
+80,Sport Product 80,Sports,Nike,1870.07,72
+81,Home Appliance Product 81,Home Appliances,Nike,484.99,121
+82,Furniture Product 82,Furniture,LG,919.88,38
+83,Electronic Product 83,Electronics,Ikea,1246.11,164
+84,Electronic Product 84,Electronics,HP,1079.89,149
+85,Grocery Product 85,Grocery,Samsung,1867.19,37
+86,Furniture Product 86,Furniture,Nike,577.12,132
+87,Office Supplie Product 87,Office Supplies,Philips,1410.04,176
+88,Office Supplie Product 88,Office Supplies,Philips,25.57,161
+89,Grocery Product 89,Grocery,HP,1878.47,54
+90,Grocery Product 90,Grocery,HP,1780.53,161
+91,Furniture Product 91,Furniture,LG,570.69,73
+92,Home Appliance Product 92,Home Appliances,Nike,415.16,182
+93,Office Supplie Product 93,Office Supplies,LG,1015.76,84
+94,Office Supplie Product 94,Office Supplies,Dell,193.67,128
+95,Office Supplie Product 95,Office Supplies,LG,97.73,105
+96,Office Supplie Product 96,Office Supplies,Samsung,1277.86,87
+97,Furniture Product 97,Furniture,Ikea,1107.84,129
+98,Sport Product 98,Sports,Dell,232.63,196
+99,Furniture Product 99,Furniture,Philips,81.7,114
+100,Sport Product 100,Sports,Philips,304.71,52
+101,Electronic Product 101,Electronics,LG,735.66,30
+102,Grocery Product 102,Grocery,Sony,1367.31,190
+103,Electronic Product 103,Electronics,Nike,1562.43,124
+104,Sport Product 104,Sports,Samsung,1852.27,80
+105,Office Supplie Product 105,Office Supplies,Samsung,1952.65,65
+106,Clothing Product 106,Clothing,Dell,366.93,105
+107,Office Supplie Product 107,Office Supplies,Adidas,1606.45,83
+108,Grocery Product 108,Grocery,Samsung,1576.88,47
+109,Clothing Product 109,Clothing,Dell,1718.6,76
+110,Furniture Product 110,Furniture,Ikea,705.82,78
+111,Furniture Product 111,Furniture,Dell,1323.47,122
+112,Grocery Product 112,Grocery,LG,1730.06,91
+113,Grocery Product 113,Grocery,Philips,805.36,157
+114,Grocery Product 114,Grocery,Dell,239.53,86
+115,Furniture Product 115,Furniture,Lenovo,1925.44,87
+116,Electronic Product 116,Electronics,HP,1197.18,108
+117,Home Appliance Product 117,Home Appliances,Nike,878.42,150
+118,Electronic Product 118,Electronics,Adidas,1800.01,68
+119,Grocery Product 119,Grocery,Dell,1420.48,20
+120,Sport Product 120,Sports,Philips,1376.85,191
+121,Furniture Product 121,Furniture,Nike,868.28,190
+122,Grocery Product 122,Grocery,Lenovo,634.69,51
+123,Home Appliance Product 123,Home Appliances,LG,1019.17,190
+124,Clothing Product 124,Clothing,Nike,810.78,95
+125,Sport Product 125,Sports,Samsung,391.76,190
+126,Clothing Product 126,Clothing,Samsung,1234.87,97
+127,Clothing Product 127,Clothing,Philips,1669.11,97
+128,Grocery Product 128,Grocery,Sony,865.48,168
+129,Sport Product 129,Sports,Nike,935.33,133
+130,Home Appliance Product 130,Home Appliances,Sony,1027.24,63
+131,Home Appliance Product 131,Home Appliances,HP,574.73,189
+132,Home Appliance Product 132,Home Appliances,Lenovo,677.02,80
+133,Home Appliance Product 133,Home Appliances,LG,457.03,70
+134,Furniture Product 134,Furniture,Dell,101.97,141
+135,Sport Product 135,Sports,HP,916.28,181
+136,Sport Product 136,Sports,Sony,1439.51,118
+137,Clothing Product 137,Clothing,Adidas,495.53,187
+138,Home Appliance Product 138,Home Appliances,Dell,1786.39,47
+139,Office Supplie Product 139,Office Supplies,Adidas,445.49,198
+140,Sport Product 140,Sports,Ikea,109.93,83
+141,Office Supplie Product 141,Office Supplies,HP,918.36,138
+142,Home Appliance Product 142,Home Appliances,Philips,1975.91,172
+143,Grocery Product 143,Grocery,Ikea,1229.18,149
+144,Clothing Product 144,Clothing,Philips,897.37,60
+145,Home Appliance Product 145,Home Appliances,Ikea,905.64,83
+146,Office Supplie Product 146,Office Supplies,LG,1533.97,153
+147,Clothing Product 147,Clothing,Sony,556.45,39
+148,Home Appliance Product 148,Home Appliances,LG,476.64,105
+149,Grocery Product 149,Grocery,Philips,170.35,58
+150,Furniture Product 150,Furniture,Adidas,1390.96,200
+151,Furniture Product 151,Furniture,HP,835.59,104
+152,Sport Product 152,Sports,Ikea,837.39,72
+153,Office Supplie Product 153,Office Supplies,Adidas,785.06,169
+154,Home Appliance Product 154,Home Appliances,Dell,1714.9,167
+155,Clothing Product 155,Clothing,Ikea,21.73,110
+156,Grocery Product 156,Grocery,Adidas,1708.36,127
+157,Sport Product 157,Sports,Philips,1601.74,76
+158,Clothing Product 158,Clothing,Sony,553.14,144
+159,Electronic Product 159,Electronics,Adidas,678.9,193
+160,Office Supplie Product 160,Office Supplies,Adidas,1451.12,139
+161,Furniture Product 161,Furniture,Lenovo,1072.91,120
+162,Sport Product 162,Sports,Lenovo,1329.37,41
+163,Home Appliance Product 163,Home Appliances,Adidas,280.04,138
+164,Furniture Product 164,Furniture,Dell,527.71,103
+165,Furniture Product 165,Furniture,Ikea,660.42,117
+166,Grocery Product 166,Grocery,Adidas,512.02,40
+167,Clothing Product 167,Clothing,Dell,1500.56,33
+168,Grocery Product 168,Grocery,Sony,1303.79,186
+169,Electronic Product 169,Electronics,Dell,1899.73,71
+170,Office Supplie Product 170,Office Supplies,Dell,1246.46,81
+171,Furniture Product 171,Furniture,Ikea,1342.22,164
+172,Furniture Product 172,Furniture,Ikea,1401.94,114
+173,Furniture Product 173,Furniture,Lenovo,1218.42,49
+174,Office Supplie Product 174,Office Supplies,Samsung,1929.79,47
+175,Sport Product 175,Sports,Dell,1858.49,167
+176,Home Appliance Product 176,Home Appliances,Adidas,799.34,70
+177,Electronic Product 177,Electronics,Lenovo,1384.32,180
+178,Furniture Product 178,Furniture,HP,1397.41,97
+179,Office Supplie Product 179,Office Supplies,Lenovo,1613.0,164
+180,Office Supplie Product 180,Office Supplies,Dell,700.94,129
+181,Home Appliance Product 181,Home Appliances,Nike,147.22,185
+182,Grocery Product 182,Grocery,Dell,1700.66,145
+183,Electronic Product 183,Electronics,Adidas,1921.97,182
+184,Office Supplie Product 184,Office Supplies,Ikea,1417.54,131
+185,Furniture Product 185,Furniture,Philips,1931.29,89
+186,Sport Product 186,Sports,Philips,1551.54,139
+187,Clothing Product 187,Clothing,Lenovo,544.11,82
+188,Office Supplie Product 188,Office Supplies,HP,565.07,135
+189,Furniture Product 189,Furniture,Ikea,1144.0,191
+190,Clothing Product 190,Clothing,Nike,67.11,103
+191,Furniture Product 191,Furniture,Ikea,432.12,86
+192,Grocery Product 192,Grocery,LG,1761.84,199
+193,Grocery Product 193,Grocery,Philips,30.2,68
+194,Electronic Product 194,Electronics,Sony,1442.95,145
+195,Sport Product 195,Sports,Sony,1384.31,185
+196,Home Appliance Product 196,Home Appliances,Ikea,901.87,24
+197,Electronic Product 197,Electronics,LG,450.98,197
+198,Furniture Product 198,Furniture,LG,1331.28,114
+199,Clothing Product 199,Clothing,Philips,1066.53,128
+200,Home Appliance Product 200,Home Appliances,Philips,668.27,199
+201,Clothing Product 201,Clothing,LG,620.18,79
+202,Electronic Product 202,Electronics,Sony,637.94,157
+203,Office Supplie Product 203,Office Supplies,Samsung,391.17,143
+204,Grocery Product 204,Grocery,Lenovo,1953.45,154
+205,Sport Product 205,Sports,LG,1961.22,69
+206,Grocery Product 206,Grocery,Sony,728.15,97
+207,Electronic Product 207,Electronics,Philips,261.9,31
+208,Electronic Product 208,Electronics,Philips,591.35,52
+209,Home Appliance Product 209,Home Appliances,Ikea,214.15,23
+210,Sport Product 210,Sports,LG,944.1,132
+211,Grocery Product 211,Grocery,Samsung,1931.34,84
+212,Office Supplie Product 212,Office Supplies,Ikea,237.03,36
+213,Clothing Product 213,Clothing,Ikea,157.42,181
+214,Home Appliance Product 214,Home Appliances,Dell,311.94,164
+215,Grocery Product 215,Grocery,HP,1987.9,50
+216,Sport Product 216,Sports,Adidas,1216.57,178
+217,Furniture Product 217,Furniture,Philips,766.95,133
+218,Grocery Product 218,Grocery,Lenovo,1980.16,98
+219,Sport Product 219,Sports,Lenovo,129.86,45
+220,Office Supplie Product 220,Office Supplies,Sony,1254.77,87
+221,Home Appliance Product 221,Home Appliances,HP,322.54,64
+222,Sport Product 222,Sports,HP,321.5,124
+223,Clothing Product 223,Clothing,Lenovo,945.13,28
+224,Furniture Product 224,Furniture,LG,1416.84,199
+225,Office Supplie Product 225,Office Supplies,Ikea,151.65,79
+226,Grocery Product 226,Grocery,Lenovo,1325.75,70
+227,Clothing Product 227,Clothing,HP,1093.68,185
+228,Furniture Product 228,Furniture,LG,1655.0,38
+229,Electronic Product 229,Electronics,Samsung,1587.33,172
+230,Home Appliance Product 230,Home Appliances,Lenovo,1843.17,132
+231,Electronic Product 231,Electronics,Ikea,1380.47,199
+232,Clothing Product 232,Clothing,LG,1005.94,146
+233,Clothing Product 233,Clothing,HP,1200.09,130
+234,Home Appliance Product 234,Home Appliances,Nike,1211.39,26
+235,Electronic Product 235,Electronics,Sony,1924.2,167
+236,Sport Product 236,Sports,Dell,1999.15,192
+237,Office Supplie Product 237,Office Supplies,LG,1156.73,64
+238,Clothing Product 238,Clothing,Philips,1306.5,91
+239,Furniture Product 239,Furniture,Lenovo,877.41,145
+240,Electronic Product 240,Electronics,Ikea,702.44,105
+241,Grocery Product 241,Grocery,HP,1716.89,104
+242,Clothing Product 242,Clothing,Ikea,583.55,122
+243,Office Supplie Product 243,Office Supplies,Philips,83.03,42
+244,Grocery Product 244,Grocery,LG,653.31,123
+245,Office Supplie Product 245,Office Supplies,Philips,1651.61,20
+246,Home Appliance Product 246,Home Appliances,Philips,929.33,33
+247,Furniture Product 247,Furniture,Philips,729.94,147
+248,Home Appliance Product 248,Home Appliances,Ikea,1522.38,72
+249,Grocery Product 249,Grocery,Philips,270.72,93
+250,Clothing Product 250,Clothing,Ikea,251.64,181
+251,Sport Product 251,Sports,Sony,1422.47,99
+252,Sport Product 252,Sports,Dell,1108.98,43
+253,Furniture Product 253,Furniture,HP,928.28,50
+254,Home Appliance Product 254,Home Appliances,Samsung,1001.77,94
+255,Sport Product 255,Sports,LG,836.83,143
+256,Clothing Product 256,Clothing,Sony,919.01,57
+257,Clothing Product 257,Clothing,Sony,1844.52,150
+258,Home Appliance Product 258,Home Appliances,Samsung,1729.41,90
+259,Office Supplie Product 259,Office Supplies,Adidas,686.35,149
+260,Grocery Product 260,Grocery,Dell,572.85,96
+261,Office Supplie Product 261,Office Supplies,Lenovo,1164.05,188
+262,Clothing Product 262,Clothing,Samsung,898.63,143
+263,Grocery Product 263,Grocery,Nike,1108.32,159
+264,Clothing Product 264,Clothing,Ikea,1866.38,68
+265,Home Appliance Product 265,Home Appliances,Sony,1147.88,79
+266,Office Supplie Product 266,Office Supplies,Adidas,96.86,141
+267,Home Appliance Product 267,Home Appliances,Adidas,778.3,189
+268,Office Supplie Product 268,Office Supplies,Samsung,995.7,29
+269,Furniture Product 269,Furniture,Philips,1931.05,104
+270,Office Supplie Product 270,Office Supplies,HP,1749.64,132
+271,Electronic Product 271,Electronics,Philips,1821.78,23
+272,Home Appliance Product 272,Home Appliances,Samsung,825.86,187
+273,Furniture Product 273,Furniture,HP,944.29,87
+274,Grocery Product 274,Grocery,Lenovo,1388.48,186
+275,Electronic Product 275,Electronics,Nike,1706.16,156
+276,Clothing Product 276,Clothing,Nike,1257.33,144
+277,Office Supplie Product 277,Office Supplies,Philips,81.44,37
+278,Furniture Product 278,Furniture,LG,1994.88,43
+279,Clothing Product 279,Clothing,HP,1523.14,200
+280,Office Supplie Product 280,Office Supplies,HP,892.92,197
+281,Grocery Product 281,Grocery,Dell,101.52,34
+282,Grocery Product 282,Grocery,Nike,755.93,57
+283,Furniture Product 283,Furniture,Philips,829.98,194
+284,Office Supplie Product 284,Office Supplies,Samsung,348.27,40
+285,Sport Product 285,Sports,Adidas,1243.22,81
+286,Clothing Product 286,Clothing,Lenovo,294.8,138
+287,Home Appliance Product 287,Home Appliances,LG,924.55,190
+288,Electronic Product 288,Electronics,Ikea,1803.41,193
+289,Sport Product 289,Sports,Samsung,156.99,108
+290,Sport Product 290,Sports,LG,1281.49,128
+291,Home Appliance Product 291,Home Appliances,LG,919.1,97
+292,Furniture Product 292,Furniture,Adidas,1708.14,47
+293,Furniture Product 293,Furniture,Adidas,1148.13,167
+294,Grocery Product 294,Grocery,LG,53.66,188
+295,Clothing Product 295,Clothing,LG,26.11,195
+296,Office Supplie Product 296,Office Supplies,Dell,1822.13,147
+297,Office Supplie Product 297,Office Supplies,LG,1553.72,78
+298,Sport Product 298,Sports,Nike,445.82,68
+299,Sport Product 299,Sports,LG,1358.75,188
+300,Home Appliance Product 300,Home Appliances,Samsung,1260.21,180
+301,Home Appliance Product 301,Home Appliances,Dell,624.78,132
+302,Electronic Product 302,Electronics,Lenovo,736.07,53
+303,Electronic Product 303,Electronics,LG,660.17,126
+304,Furniture Product 304,Furniture,Sony,273.0,158
+305,Grocery Product 305,Grocery,Philips,1008.57,89
+306,Office Supplie Product 306,Office Supplies,Samsung,521.37,143
+307,Office Supplie Product 307,Office Supplies,LG,1495.65,106
+308,Office Supplie Product 308,Office Supplies,HP,941.98,39
+309,Furniture Product 309,Furniture,Sony,1721.68,192
+310,Clothing Product 310,Clothing,Philips,737.89,121
+311,Electronic Product 311,Electronics,LG,1077.78,136
+312,Grocery Product 312,Grocery,LG,1173.27,183
+313,Grocery Product 313,Grocery,HP,1352.92,140
+314,Electronic Product 314,Electronics,Lenovo,1769.63,163
+315,Grocery Product 315,Grocery,Lenovo,450.52,36
+316,Home Appliance Product 316,Home Appliances,Ikea,1819.68,97
+317,Home Appliance Product 317,Home Appliances,Adidas,242.19,31
+318,Electronic Product 318,Electronics,LG,1991.9,49
+319,Electronic Product 319,Electronics,Sony,1775.65,54
+320,Clothing Product 320,Clothing,Ikea,748.31,198
+321,Sport Product 321,Sports,Adidas,1178.81,59
+322,Clothing Product 322,Clothing,HP,1669.05,177
+323,Clothing Product 323,Clothing,LG,75.11,114
+324,Furniture Product 324,Furniture,Ikea,894.94,80
+325,Office Supplie Product 325,Office Supplies,Nike,207.72,195
+326,Grocery Product 326,Grocery,Philips,1804.38,185
+327,Grocery Product 327,Grocery,Dell,802.3,68
+328,Electronic Product 328,Electronics,Ikea,192.43,74
+329,Home Appliance Product 329,Home Appliances,Lenovo,1942.48,32
+330,Office Supplie Product 330,Office Supplies,Nike,494.7,52
+331,Office Supplie Product 331,Office Supplies,Lenovo,418.36,161
+332,Furniture Product 332,Furniture,Lenovo,439.74,79
+333,Grocery Product 333,Grocery,Samsung,1579.4,172
+334,Electronic Product 334,Electronics,LG,1718.23,57
+335,Furniture Product 335,Furniture,Philips,508.8,64
+336,Electronic Product 336,Electronics,Dell,272.29,111
+337,Office Supplie Product 337,Office Supplies,Sony,1181.82,24
+338,Furniture Product 338,Furniture,LG,114.27,127
+339,Sport Product 339,Sports,HP,1493.87,141
+340,Clothing Product 340,Clothing,Nike,1031.34,47
+341,Clothing Product 341,Clothing,Philips,450.88,177
+342,Electronic Product 342,Electronics,Philips,610.24,184
+343,Electronic Product 343,Electronics,Dell,1997.19,122
+344,Clothing Product 344,Clothing,HP,985.64,133
+345,Electronic Product 345,Electronics,HP,651.0,57
+346,Electronic Product 346,Electronics,Samsung,557.28,182
+347,Sport Product 347,Sports,Philips,1427.18,117
+348,Sport Product 348,Sports,Philips,596.85,149
+349,Sport Product 349,Sports,Adidas,207.37,199
+350,Electronic Product 350,Electronics,Philips,1444.47,75
+351,Clothing Product 351,Clothing,Ikea,1777.3,125
+352,Grocery Product 352,Grocery,Ikea,803.47,44
+353,Grocery Product 353,Grocery,Adidas,631.92,85
+354,Grocery Product 354,Grocery,Samsung,1376.77,141
+355,Electronic Product 355,Electronics,HP,1665.23,43
+356,Clothing Product 356,Clothing,HP,1491.73,115
+357,Office Supplie Product 357,Office Supplies,Samsung,1117.18,170
+358,Sport Product 358,Sports,Philips,666.0,51
+359,Clothing Product 359,Clothing,Nike,1748.48,128
+360,Office Supplie Product 360,Office Supplies,Dell,1937.11,173
+361,Grocery Product 361,Grocery,Nike,216.17,149
+362,Furniture Product 362,Furniture,Samsung,1316.91,77
+363,Office Supplie Product 363,Office Supplies,HP,706.73,162
+364,Grocery Product 364,Grocery,HP,1527.59,166
+365,Furniture Product 365,Furniture,Adidas,1691.86,179
+366,Sport Product 366,Sports,Philips,62.25,188
+367,Office Supplie Product 367,Office Supplies,LG,67.62,89
+368,Home Appliance Product 368,Home Appliances,LG,1843.86,109
+369,Electronic Product 369,Electronics,Samsung,1741.03,164
+370,Home Appliance Product 370,Home Appliances,Adidas,148.47,182
+371,Electronic Product 371,Electronics,HP,1494.76,75
+372,Clothing Product 372,Clothing,Adidas,912.76,60
+373,Grocery Product 373,Grocery,LG,1445.98,165
+374,Sport Product 374,Sports,HP,1767.85,59
+375,Furniture Product 375,Furniture,Lenovo,109.03,40
+376,Grocery Product 376,Grocery,Ikea,1327.26,144
+377,Sport Product 377,Sports,Ikea,834.23,75
+378,Office Supplie Product 378,Office Supplies,Philips,236.5,130
+379,Electronic Product 379,Electronics,LG,1359.65,171
+380,Clothing Product 380,Clothing,Philips,1337.59,31
+381,Furniture Product 381,Furniture,Adidas,1969.05,34
+382,Electronic Product 382,Electronics,Sony,609.82,74
+383,Office Supplie Product 383,Office Supplies,Samsung,1530.68,94
+384,Grocery Product 384,Grocery,HP,25.38,130
+385,Furniture Product 385,Furniture,Samsung,766.61,200
+386,Furniture Product 386,Furniture,Philips,1121.86,191
+387,Office Supplie Product 387,Office Supplies,Nike,153.43,30
+388,Clothing Product 388,Clothing,Dell,924.91,39
+389,Office Supplie Product 389,Office Supplies,Nike,1155.76,166
+390,Clothing Product 390,Clothing,Adidas,586.14,123
+391,Electronic Product 391,Electronics,Nike,352.03,178
+392,Clothing Product 392,Clothing,Nike,185.38,47
+393,Furniture Product 393,Furniture,Adidas,1181.85,154
+394,Electronic Product 394,Electronics,Adidas,1742.34,106
+395,Furniture Product 395,Furniture,Nike,1560.44,39
+396,Sport Product 396,Sports,HP,1065.9,69
+397,Office Supplie Product 397,Office Supplies,Nike,708.69,185
+398,Office Supplie Product 398,Office Supplies,Samsung,480.18,57
+399,Grocery Product 399,Grocery,Sony,355.26,59
+400,Office Supplie Product 400,Office Supplies,HP,362.52,180
+401,Clothing Product 401,Clothing,Ikea,1511.35,168
+402,Clothing Product 402,Clothing,Lenovo,1289.55,179
+403,Grocery Product 403,Grocery,Nike,310.41,37
+404,Clothing Product 404,Clothing,Ikea,1266.46,90
+405,Sport Product 405,Sports,Dell,710.37,38
+406,Grocery Product 406,Grocery,Ikea,909.31,34
+407,Grocery Product 407,Grocery,LG,162.69,43
+408,Sport Product 408,Sports,Lenovo,1019.06,138
+409,Sport Product 409,Sports,Philips,1908.92,30
+410,Clothing Product 410,Clothing,Lenovo,1307.16,102
+411,Sport Product 411,Sports,Ikea,1007.72,35
+412,Clothing Product 412,Clothing,HP,1623.82,107
+413,Home Appliance Product 413,Home Appliances,HP,1014.05,64
+414,Electronic Product 414,Electronics,Sony,1418.17,132
+415,Sport Product 415,Sports,Philips,1223.51,113
+416,Grocery Product 416,Grocery,LG,780.96,106
+417,Home Appliance Product 417,Home Appliances,Lenovo,114.21,181
+418,Home Appliance Product 418,Home Appliances,Nike,141.16,44
+419,Sport Product 419,Sports,Adidas,575.45,188
+420,Sport Product 420,Sports,Samsung,673.39,169
+421,Home Appliance Product 421,Home Appliances,Samsung,1834.33,99
+422,Home Appliance Product 422,Home Appliances,Adidas,266.61,41
+423,Grocery Product 423,Grocery,Philips,759.59,104
+424,Office Supplie Product 424,Office Supplies,Samsung,1343.53,195
+425,Sport Product 425,Sports,HP,1295.59,128
+426,Sport Product 426,Sports,Nike,46.28,99
+427,Furniture Product 427,Furniture,Sony,690.05,144
+428,Furniture Product 428,Furniture,Sony,1999.95,59
+429,Electronic Product 429,Electronics,LG,1690.41,45
+430,Sport Product 430,Sports,Philips,1671.89,154
+431,Electronic Product 431,Electronics,Nike,1754.02,178
+432,Furniture Product 432,Furniture,Lenovo,759.67,61
+433,Furniture Product 433,Furniture,Lenovo,1620.0,62
+434,Home Appliance Product 434,Home Appliances,Ikea,96.95,113
+435,Home Appliance Product 435,Home Appliances,Sony,1939.48,176
+436,Grocery Product 436,Grocery,Ikea,475.67,81
+437,Grocery Product 437,Grocery,Ikea,1808.91,69
+438,Grocery Product 438,Grocery,Lenovo,1969.04,138
+439,Office Supplie Product 439,Office Supplies,LG,1558.47,148
+440,Sport Product 440,Sports,Adidas,1932.87,71
+441,Office Supplie Product 441,Office Supplies,Lenovo,285.41,84
+442,Electronic Product 442,Electronics,Ikea,1749.49,161
+443,Electronic Product 443,Electronics,Philips,1703.82,92
+444,Electronic Product 444,Electronics,Samsung,552.85,151
+445,Furniture Product 445,Furniture,Adidas,192.51,76
+446,Office Supplie Product 446,Office Supplies,Ikea,1770.41,26
+447,Clothing Product 447,Clothing,Dell,798.94,115
+448,Furniture Product 448,Furniture,Adidas,1989.11,115
+449,Furniture Product 449,Furniture,Dell,644.18,45
+450,Office Supplie Product 450,Office Supplies,Nike,1584.85,55
+451,Electronic Product 451,Electronics,LG,1835.62,140
+452,Home Appliance Product 452,Home Appliances,Samsung,1520.09,140
+453,Clothing Product 453,Clothing,Lenovo,20.45,40
+454,Electronic Product 454,Electronics,LG,439.15,58
+455,Sport Product 455,Sports,Lenovo,1060.27,48
+456,Office Supplie Product 456,Office Supplies,LG,482.9,51
+457,Electronic Product 457,Electronics,Sony,845.45,179
+458,Clothing Product 458,Clothing,HP,230.61,147
+459,Sport Product 459,Sports,Philips,42.71,151
+460,Sport Product 460,Sports,Sony,1439.9,94
+461,Clothing Product 461,Clothing,Dell,1233.47,81
+462,Sport Product 462,Sports,Adidas,382.75,191
+463,Electronic Product 463,Electronics,Philips,1949.56,37
+464,Sport Product 464,Sports,Philips,1019.58,149
+465,Sport Product 465,Sports,Dell,787.0,140
+466,Electronic Product 466,Electronics,Adidas,1962.27,84
+467,Home Appliance Product 467,Home Appliances,Dell,720.62,37
+468,Grocery Product 468,Grocery,Sony,1468.55,180
+469,Electronic Product 469,Electronics,Lenovo,1473.02,105
+470,Furniture Product 470,Furniture,Dell,711.08,106
+471,Office Supplie Product 471,Office Supplies,Samsung,1662.46,195
+472,Clothing Product 472,Clothing,Ikea,1267.15,54
+473,Electronic Product 473,Electronics,Ikea,83.6,71
+474,Electronic Product 474,Electronics,Sony,1772.72,100
+475,Grocery Product 475,Grocery,Philips,802.47,159
+476,Clothing Product 476,Clothing,LG,82.88,185
+477,Furniture Product 477,Furniture,LG,720.38,32
+478,Office Supplie Product 478,Office Supplies,Nike,553.7,114
+479,Clothing Product 479,Clothing,Adidas,1489.18,118
+480,Grocery Product 480,Grocery,Samsung,997.44,147
+481,Grocery Product 481,Grocery,Philips,540.77,41
+482,Home Appliance Product 482,Home Appliances,Adidas,167.06,174
+483,Office Supplie Product 483,Office Supplies,Samsung,1095.49,102
+484,Electronic Product 484,Electronics,HP,662.56,95
+485,Grocery Product 485,Grocery,Ikea,1209.22,129
+486,Furniture Product 486,Furniture,Ikea,709.58,30
+487,Home Appliance Product 487,Home Appliances,Nike,1233.55,131
+488,Grocery Product 488,Grocery,Dell,159.33,183
+489,Clothing Product 489,Clothing,Nike,1031.04,193
+490,Furniture Product 490,Furniture,Dell,294.13,175
+491,Home Appliance Product 491,Home Appliances,Ikea,79.25,37
+492,Furniture Product 492,Furniture,Nike,730.68,165
+493,Electronic Product 493,Electronics,Lenovo,315.34,135
+494,Grocery Product 494,Grocery,Nike,893.44,39
+495,Sport Product 495,Sports,Samsung,1063.63,121
+496,Grocery Product 496,Grocery,LG,506.73,49
+497,Electronic Product 497,Electronics,Samsung,1003.1,119
+498,Sport Product 498,Sports,HP,530.94,86
+499,Home Appliance Product 499,Home Appliances,Ikea,437.0,176
+500,Grocery Product 500,Grocery,Ikea,408.35,54
+501,Office Supplie Product 501,Office Supplies,HP,909.56,133
+502,Electronic Product 502,Electronics,Nike,1339.0,36
+503,Sport Product 503,Sports,Philips,587.82,96
+504,Office Supplie Product 504,Office Supplies,Samsung,1426.5,199
+505,Home Appliance Product 505,Home Appliances,Samsung,1589.46,150
+506,Furniture Product 506,Furniture,HP,1970.41,55
+507,Furniture Product 507,Furniture,Ikea,62.31,161
+508,Sport Product 508,Sports,Nike,940.14,161
+509,Furniture Product 509,Furniture,Lenovo,1769.65,36
+510,Grocery Product 510,Grocery,Adidas,1999.19,142
+511,Sport Product 511,Sports,Adidas,1540.64,167
+512,Electronic Product 512,Electronics,Samsung,1945.04,184
+513,Electronic Product 513,Electronics,Ikea,937.01,152
+514,Grocery Product 514,Grocery,Samsung,1757.14,161
+515,Home Appliance Product 515,Home Appliances,Lenovo,372.11,53
+516,Clothing Product 516,Clothing,Philips,1822.32,34
+517,Office Supplie Product 517,Office Supplies,HP,1041.02,97
+518,Furniture Product 518,Furniture,Samsung,652.09,77
+519,Grocery Product 519,Grocery,Philips,1790.9,40
+520,Grocery Product 520,Grocery,Sony,1273.76,161
+521,Grocery Product 521,Grocery,Samsung,1253.79,177
+522,Sport Product 522,Sports,HP,1010.12,63
+523,Sport Product 523,Sports,Lenovo,316.85,188
+524,Sport Product 524,Sports,Lenovo,681.86,164
+525,Electronic Product 525,Electronics,Dell,171.63,184
+526,Office Supplie Product 526,Office Supplies,Lenovo,536.67,73
+527,Office Supplie Product 527,Office Supplies,Lenovo,839.01,183
+528,Electronic Product 528,Electronics,Ikea,1779.1,159
+529,Grocery Product 529,Grocery,LG,971.06,195
+530,Clothing Product 530,Clothing,LG,912.55,196
+531,Electronic Product 531,Electronics,Samsung,884.81,143
+532,Clothing Product 532,Clothing,Sony,686.98,56
+533,Grocery Product 533,Grocery,Nike,1471.06,108
+534,Clothing Product 534,Clothing,Samsung,1523.72,151
+535,Sport Product 535,Sports,HP,645.04,139
+536,Electronic Product 536,Electronics,LG,904.7,56
+537,Electronic Product 537,Electronics,Dell,587.52,118
+538,Office Supplie Product 538,Office Supplies,Lenovo,842.09,60
+539,Office Supplie Product 539,Office Supplies,Nike,1868.17,100
+540,Furniture Product 540,Furniture,Samsung,1001.55,151
+541,Clothing Product 541,Clothing,Ikea,1759.36,147
+542,Electronic Product 542,Electronics,HP,1891.01,149
+543,Clothing Product 543,Clothing,Sony,438.14,110
+544,Electronic Product 544,Electronics,Dell,569.9,172
+545,Office Supplie Product 545,Office Supplies,Ikea,578.64,22
+546,Office Supplie Product 546,Office Supplies,HP,867.55,87
+547,Home Appliance Product 547,Home Appliances,Nike,1530.07,113
+548,Electronic Product 548,Electronics,Adidas,111.8,163
+549,Furniture Product 549,Furniture,Nike,1110.91,38
+550,Clothing Product 550,Clothing,Philips,906.21,160
+551,Grocery Product 551,Grocery,Lenovo,1363.99,50
+552,Furniture Product 552,Furniture,HP,793.87,106
+553,Sport Product 553,Sports,Nike,1512.38,70
+554,Sport Product 554,Sports,Philips,808.76,30
+555,Electronic Product 555,Electronics,Dell,282.7,105
+556,Office Supplie Product 556,Office Supplies,Ikea,1043.47,58
+557,Sport Product 557,Sports,Philips,288.16,176
+558,Grocery Product 558,Grocery,Samsung,791.98,177
+559,Home Appliance Product 559,Home Appliances,LG,1191.51,149
+560,Office Supplie Product 560,Office Supplies,Philips,1069.36,164
+561,Grocery Product 561,Grocery,Ikea,1633.34,114
+562,Grocery Product 562,Grocery,HP,1960.0,169
+563,Grocery Product 563,Grocery,Dell,1197.85,87
+564,Home Appliance Product 564,Home Appliances,Lenovo,1159.49,33
+565,Sport Product 565,Sports,Ikea,349.32,181
+566,Home Appliance Product 566,Home Appliances,Lenovo,1551.47,117
+567,Furniture Product 567,Furniture,Sony,72.83,199
+568,Electronic Product 568,Electronics,Sony,47.69,100
+569,Clothing Product 569,Clothing,Samsung,831.79,72
+570,Clothing Product 570,Clothing,Philips,1552.19,140
+571,Office Supplie Product 571,Office Supplies,Dell,1414.49,152
+572,Furniture Product 572,Furniture,Philips,656.85,189
+573,Clothing Product 573,Clothing,Philips,759.88,64
+574,Clothing Product 574,Clothing,Philips,691.23,110
+575,Home Appliance Product 575,Home Appliances,LG,1224.05,69
+576,Furniture Product 576,Furniture,LG,1120.59,77
+577,Grocery Product 577,Grocery,LG,1412.75,196
+578,Home Appliance Product 578,Home Appliances,Ikea,640.91,109
+579,Sport Product 579,Sports,LG,582.7,166
+580,Home Appliance Product 580,Home Appliances,Philips,765.59,121
+581,Office Supplie Product 581,Office Supplies,Nike,1909.67,57
+582,Grocery Product 582,Grocery,Dell,582.38,40
+583,Grocery Product 583,Grocery,Ikea,1315.38,142
+584,Furniture Product 584,Furniture,Sony,1657.62,89
+585,Sport Product 585,Sports,LG,283.17,177
+586,Home Appliance Product 586,Home Appliances,Lenovo,486.17,32
+587,Home Appliance Product 587,Home Appliances,Philips,459.09,79
+588,Electronic Product 588,Electronics,HP,832.47,140
+589,Electronic Product 589,Electronics,Samsung,20.31,160
+590,Furniture Product 590,Furniture,Adidas,1309.26,141
+591,Clothing Product 591,Clothing,Sony,1514.26,93
+592,Grocery Product 592,Grocery,LG,1295.34,42
+593,Home Appliance Product 593,Home Appliances,Lenovo,472.12,29
+594,Furniture Product 594,Furniture,Adidas,1765.67,65
+595,Electronic Product 595,Electronics,Adidas,1578.04,67
+596,Home Appliance Product 596,Home Appliances,LG,1754.72,22
+597,Grocery Product 597,Grocery,Lenovo,1209.54,105
+598,Grocery Product 598,Grocery,Ikea,1978.31,159
+599,Sport Product 599,Sports,Ikea,1779.63,54
+600,Office Supplie Product 600,Office Supplies,Philips,941.36,69
+601,Office Supplie Product 601,Office Supplies,HP,668.06,137
+602,Home Appliance Product 602,Home Appliances,LG,1440.01,23
+603,Home Appliance Product 603,Home Appliances,Nike,1583.63,165
+604,Home Appliance Product 604,Home Appliances,Sony,359.23,183
+605,Clothing Product 605,Clothing,Adidas,1035.41,42
+606,Clothing Product 606,Clothing,HP,377.71,55
+607,Clothing Product 607,Clothing,Nike,1872.29,21
+608,Grocery Product 608,Grocery,Adidas,478.69,88
+609,Grocery Product 609,Grocery,LG,1169.1,166
+610,Electronic Product 610,Electronics,LG,1310.83,197
+611,Furniture Product 611,Furniture,Dell,1338.89,139
+612,Grocery Product 612,Grocery,Samsung,816.78,148
+613,Home Appliance Product 613,Home Appliances,LG,1383.68,183
+614,Grocery Product 614,Grocery,Nike,1233.1,76
+615,Furniture Product 615,Furniture,Ikea,314.84,175
+616,Grocery Product 616,Grocery,Adidas,1406.86,140
+617,Office Supplie Product 617,Office Supplies,Philips,1605.97,75
+618,Office Supplie Product 618,Office Supplies,Sony,1363.88,172
+619,Office Supplie Product 619,Office Supplies,HP,1055.76,155
+620,Home Appliance Product 620,Home Appliances,Nike,165.42,164
+621,Electronic Product 621,Electronics,Dell,1659.26,149
+622,Furniture Product 622,Furniture,Lenovo,1077.95,62
+623,Grocery Product 623,Grocery,Philips,889.26,194
+624,Furniture Product 624,Furniture,Lenovo,982.77,150
+625,Clothing Product 625,Clothing,Dell,912.33,151
+626,Clothing Product 626,Clothing,Ikea,1132.18,163
+627,Clothing Product 627,Clothing,LG,1449.33,121
+628,Grocery Product 628,Grocery,Dell,1494.15,168
+629,Electronic Product 629,Electronics,Dell,853.16,199
+630,Electronic Product 630,Electronics,Philips,1988.31,37
+631,Clothing Product 631,Clothing,Dell,581.31,66
+632,Office Supplie Product 632,Office Supplies,Samsung,1534.0,185
+633,Clothing Product 633,Clothing,Nike,1985.78,117
+634,Clothing Product 634,Clothing,Adidas,757.53,194
+635,Home Appliance Product 635,Home Appliances,Philips,274.65,109
+636,Electronic Product 636,Electronics,Samsung,1985.77,120
+637,Sport Product 637,Sports,Samsung,1458.44,77
+638,Office Supplie Product 638,Office Supplies,Dell,1514.8,96
+639,Clothing Product 639,Clothing,Philips,854.01,117
+640,Office Supplie Product 640,Office Supplies,Sony,502.55,108
+641,Furniture Product 641,Furniture,LG,385.08,48
+642,Electronic Product 642,Electronics,Adidas,1233.7,24
+643,Furniture Product 643,Furniture,Sony,143.91,172
+644,Electronic Product 644,Electronics,Ikea,1199.59,200
+645,Office Supplie Product 645,Office Supplies,Dell,497.02,31
+646,Clothing Product 646,Clothing,Ikea,476.34,75
+647,Office Supplie Product 647,Office Supplies,Dell,288.87,94
+648,Furniture Product 648,Furniture,Lenovo,644.62,173
+649,Office Supplie Product 649,Office Supplies,Nike,481.44,56
+650,Home Appliance Product 650,Home Appliances,Philips,449.88,96
+651,Grocery Product 651,Grocery,Dell,1117.87,171
+652,Home Appliance Product 652,Home Appliances,Samsung,1255.73,129
+653,Sport Product 653,Sports,Ikea,103.3,108
+654,Home Appliance Product 654,Home Appliances,Adidas,1573.75,101
+655,Home Appliance Product 655,Home Appliances,Adidas,822.44,96
+656,Clothing Product 656,Clothing,Samsung,1511.29,141
+657,Furniture Product 657,Furniture,Sony,608.47,56
+658,Office Supplie Product 658,Office Supplies,Ikea,1830.33,163
+659,Clothing Product 659,Clothing,Adidas,1119.0,54
+660,Clothing Product 660,Clothing,Sony,517.44,104
+661,Home Appliance Product 661,Home Appliances,HP,1845.23,114
+662,Electronic Product 662,Electronics,Philips,1451.92,68
+663,Electronic Product 663,Electronics,LG,760.56,174
+664,Sport Product 664,Sports,Dell,1748.5,68
+665,Office Supplie Product 665,Office Supplies,Lenovo,1451.37,163
+666,Furniture Product 666,Furniture,Ikea,425.69,105
+667,Grocery Product 667,Grocery,Dell,431.5,68
+668,Home Appliance Product 668,Home Appliances,HP,1496.29,142
+669,Furniture Product 669,Furniture,Lenovo,1410.5,121
+670,Furniture Product 670,Furniture,Philips,650.01,92
+671,Clothing Product 671,Clothing,Ikea,1071.96,111
+672,Grocery Product 672,Grocery,LG,725.69,147
+673,Clothing Product 673,Clothing,HP,1607.61,140
+674,Office Supplie Product 674,Office Supplies,Nike,1829.52,114
+675,Grocery Product 675,Grocery,Adidas,100.97,76
+676,Home Appliance Product 676,Home Appliances,Samsung,42.28,161
+677,Sport Product 677,Sports,Lenovo,1442.82,95
+678,Furniture Product 678,Furniture,Sony,666.43,117
+679,Sport Product 679,Sports,Sony,1003.61,187
+680,Home Appliance Product 680,Home Appliances,Nike,522.08,145
+681,Home Appliance Product 681,Home Appliances,Ikea,927.05,110
+682,Furniture Product 682,Furniture,Samsung,1443.42,145
+683,Furniture Product 683,Furniture,Philips,1980.74,35
+684,Sport Product 684,Sports,Dell,1679.75,39
+685,Office Supplie Product 685,Office Supplies,Dell,1531.03,125
+686,Furniture Product 686,Furniture,Sony,145.26,58
+687,Electronic Product 687,Electronics,Sony,1016.41,115
+688,Electronic Product 688,Electronics,Lenovo,1279.08,177
+689,Clothing Product 689,Clothing,Ikea,41.31,156
+690,Sport Product 690,Sports,Adidas,33.58,155
+691,Home Appliance Product 691,Home Appliances,LG,1076.12,93
+692,Electronic Product 692,Electronics,Philips,1628.18,192
+693,Clothing Product 693,Clothing,Samsung,222.96,44
+694,Sport Product 694,Sports,Samsung,489.53,178
+695,Sport Product 695,Sports,LG,1632.28,88
+696,Office Supplie Product 696,Office Supplies,Adidas,167.25,123
+697,Clothing Product 697,Clothing,Lenovo,493.98,198
+698,Furniture Product 698,Furniture,LG,1371.24,40
+699,Home Appliance Product 699,Home Appliances,Dell,196.07,117
+700,Clothing Product 700,Clothing,Philips,957.25,183
+701,Electronic Product 701,Electronics,Samsung,174.55,131
+702,Home Appliance Product 702,Home Appliances,Nike,1136.05,44
+703,Sport Product 703,Sports,Dell,467.24,197
+704,Sport Product 704,Sports,Ikea,549.48,39
+705,Home Appliance Product 705,Home Appliances,LG,1799.63,164
+706,Home Appliance Product 706,Home Appliances,Dell,366.92,100
+707,Electronic Product 707,Electronics,Sony,1178.2,121
+708,Electronic Product 708,Electronics,LG,333.28,81
+709,Sport Product 709,Sports,Adidas,1357.3,158
+710,Grocery Product 710,Grocery,Adidas,1513.66,55
+711,Office Supplie Product 711,Office Supplies,HP,1006.58,108
+712,Electronic Product 712,Electronics,HP,879.81,39
+713,Grocery Product 713,Grocery,Lenovo,1540.32,172
+714,Clothing Product 714,Clothing,Nike,68.96,89
+715,Office Supplie Product 715,Office Supplies,Ikea,986.3,111
+716,Sport Product 716,Sports,Adidas,869.38,194
+717,Sport Product 717,Sports,Adidas,180.53,178
+718,Grocery Product 718,Grocery,Sony,1429.09,41
+719,Grocery Product 719,Grocery,Samsung,766.2,182
+720,Furniture Product 720,Furniture,Adidas,640.19,47
+721,Electronic Product 721,Electronics,Dell,1886.49,133
+722,Grocery Product 722,Grocery,LG,213.44,42
+723,Furniture Product 723,Furniture,Adidas,903.2,162
+724,Sport Product 724,Sports,Adidas,215.55,42
+725,Grocery Product 725,Grocery,Philips,195.2,173
+726,Office Supplie Product 726,Office Supplies,Nike,1728.8,23
+727,Grocery Product 727,Grocery,Adidas,781.72,41
+728,Home Appliance Product 728,Home Appliances,Philips,1811.36,82
+729,Sport Product 729,Sports,Philips,347.47,117
+730,Furniture Product 730,Furniture,Samsung,545.15,88
+731,Clothing Product 731,Clothing,Samsung,135.9,131
+732,Grocery Product 732,Grocery,Adidas,606.51,39
+733,Grocery Product 733,Grocery,LG,1889.0,180
+734,Clothing Product 734,Clothing,Lenovo,1237.17,137
+735,Electronic Product 735,Electronics,Samsung,616.27,121
+736,Grocery Product 736,Grocery,Lenovo,765.98,104
+737,Clothing Product 737,Clothing,Nike,866.93,186
+738,Sport Product 738,Sports,Samsung,607.87,174
+739,Home Appliance Product 739,Home Appliances,Sony,963.23,65
+740,Clothing Product 740,Clothing,Nike,589.98,197
+741,Home Appliance Product 741,Home Appliances,Ikea,1935.85,82
+742,Grocery Product 742,Grocery,Adidas,567.8,120
+743,Grocery Product 743,Grocery,HP,1864.81,71
+744,Sport Product 744,Sports,Philips,368.06,160
+745,Electronic Product 745,Electronics,Ikea,1886.52,73
+746,Clothing Product 746,Clothing,LG,1664.25,37
+747,Office Supplie Product 747,Office Supplies,Adidas,1349.23,55
+748,Home Appliance Product 748,Home Appliances,LG,491.62,188
+749,Furniture Product 749,Furniture,Adidas,1580.26,38
+750,Clothing Product 750,Clothing,Lenovo,963.68,122
+751,Sport Product 751,Sports,Philips,1847.76,197
+752,Clothing Product 752,Clothing,Philips,83.16,112
+753,Home Appliance Product 753,Home Appliances,Philips,1191.7,41
+754,Electronic Product 754,Electronics,Sony,1318.63,110
+755,Furniture Product 755,Furniture,Lenovo,98.15,185
+756,Home Appliance Product 756,Home Appliances,Adidas,1933.95,104
+757,Office Supplie Product 757,Office Supplies,Adidas,220.83,45
+758,Grocery Product 758,Grocery,Sony,1026.25,152
+759,Sport Product 759,Sports,Lenovo,1378.45,76
+760,Clothing Product 760,Clothing,Nike,788.36,193
+761,Sport Product 761,Sports,Philips,309.98,26
+762,Clothing Product 762,Clothing,HP,597.91,41
+763,Electronic Product 763,Electronics,Samsung,703.17,107
+764,Clothing Product 764,Clothing,Sony,1047.02,109
+765,Clothing Product 765,Clothing,HP,881.95,198
+766,Clothing Product 766,Clothing,Nike,143.68,31
+767,Office Supplie Product 767,Office Supplies,HP,54.94,107
+768,Home Appliance Product 768,Home Appliances,HP,1357.51,62
+769,Home Appliance Product 769,Home Appliances,Sony,1036.83,161
+770,Furniture Product 770,Furniture,Nike,1124.1,138
+771,Furniture Product 771,Furniture,Adidas,1263.22,67
+772,Home Appliance Product 772,Home Appliances,Adidas,797.21,177
+773,Furniture Product 773,Furniture,Ikea,1188.48,119
+774,Electronic Product 774,Electronics,Sony,419.51,200
+775,Office Supplie Product 775,Office Supplies,HP,1158.92,157
+776,Furniture Product 776,Furniture,Nike,658.71,137
+777,Electronic Product 777,Electronics,LG,1344.7,145
+778,Sport Product 778,Sports,Nike,1197.97,176
+779,Clothing Product 779,Clothing,Lenovo,237.32,110
+780,Office Supplie Product 780,Office Supplies,Ikea,1238.55,192
+781,Home Appliance Product 781,Home Appliances,LG,1838.18,171
+782,Electronic Product 782,Electronics,Samsung,633.24,81
+783,Grocery Product 783,Grocery,HP,374.26,197
+784,Furniture Product 784,Furniture,Philips,783.04,172
+785,Furniture Product 785,Furniture,Lenovo,773.58,67
+786,Clothing Product 786,Clothing,Philips,1389.93,185
+787,Furniture Product 787,Furniture,Philips,342.06,93
+788,Furniture Product 788,Furniture,Samsung,636.01,135
+789,Sport Product 789,Sports,Dell,1732.39,22
+790,Clothing Product 790,Clothing,Samsung,398.31,118
+791,Sport Product 791,Sports,Philips,1309.61,124
+792,Home Appliance Product 792,Home Appliances,Ikea,837.1,133
+793,Clothing Product 793,Clothing,Samsung,174.51,27
+794,Office Supplie Product 794,Office Supplies,Sony,591.26,90
+795,Furniture Product 795,Furniture,Philips,584.45,137
+796,Sport Product 796,Sports,Ikea,1103.96,48
+797,Sport Product 797,Sports,HP,543.1,159
+798,Office Supplie Product 798,Office Supplies,Nike,1088.67,30
+799,Office Supplie Product 799,Office Supplies,Ikea,1097.24,128
+800,Electronic Product 800,Electronics,Sony,602.44,28
+801,Clothing Product 801,Clothing,LG,703.67,42
+802,Clothing Product 802,Clothing,HP,1553.51,80
+803,Furniture Product 803,Furniture,Lenovo,1381.38,176
+804,Home Appliance Product 804,Home Appliances,Adidas,340.3,55
+805,Office Supplie Product 805,Office Supplies,Sony,1628.92,35
+806,Sport Product 806,Sports,Nike,1069.24,172
+807,Sport Product 807,Sports,Samsung,654.07,200
+808,Grocery Product 808,Grocery,LG,1149.74,151
+809,Home Appliance Product 809,Home Appliances,HP,279.82,125
+810,Electronic Product 810,Electronics,LG,1735.42,52
+811,Home Appliance Product 811,Home Appliances,Samsung,506.86,102
+812,Office Supplie Product 812,Office Supplies,Sony,1525.33,193
+813,Clothing Product 813,Clothing,Ikea,292.92,181
+814,Grocery Product 814,Grocery,Adidas,756.59,39
+815,Home Appliance Product 815,Home Appliances,HP,811.67,91
+816,Home Appliance Product 816,Home Appliances,Nike,914.84,144
+817,Grocery Product 817,Grocery,Lenovo,14.92,43
+818,Home Appliance Product 818,Home Appliances,Ikea,1273.33,198
+819,Grocery Product 819,Grocery,HP,1593.4,121
+820,Furniture Product 820,Furniture,Adidas,1651.45,146
+821,Grocery Product 821,Grocery,Nike,1658.4,106
+822,Sport Product 822,Sports,Lenovo,269.88,144
+823,Office Supplie Product 823,Office Supplies,Nike,1789.37,32
+824,Electronic Product 824,Electronics,HP,1256.1,137
+825,Electronic Product 825,Electronics,HP,1859.57,60
+826,Clothing Product 826,Clothing,Ikea,11.35,129
+827,Furniture Product 827,Furniture,Samsung,1765.47,97
+828,Furniture Product 828,Furniture,LG,195.75,112
+829,Grocery Product 829,Grocery,HP,749.97,186
+830,Furniture Product 830,Furniture,Dell,798.72,98
+831,Home Appliance Product 831,Home Appliances,Sony,864.17,43
+832,Home Appliance Product 832,Home Appliances,HP,12.16,142
+833,Electronic Product 833,Electronics,Samsung,1191.42,152
+834,Home Appliance Product 834,Home Appliances,Ikea,28.48,198
+835,Grocery Product 835,Grocery,HP,1976.43,128
+836,Home Appliance Product 836,Home Appliances,Samsung,960.62,78
+837,Clothing Product 837,Clothing,HP,1464.22,46
+838,Electronic Product 838,Electronics,Nike,741.45,96
+839,Furniture Product 839,Furniture,Adidas,1549.19,54
+840,Home Appliance Product 840,Home Appliances,Samsung,146.14,164
+841,Electronic Product 841,Electronics,Lenovo,1303.54,132
+842,Grocery Product 842,Grocery,Sony,1259.88,58
+843,Clothing Product 843,Clothing,Lenovo,1376.27,75
+844,Electronic Product 844,Electronics,HP,288.63,51
+845,Sport Product 845,Sports,Adidas,709.56,129
+846,Grocery Product 846,Grocery,Samsung,503.09,185
+847,Electronic Product 847,Electronics,Sony,1111.26,173
+848,Home Appliance Product 848,Home Appliances,Lenovo,576.99,196
+849,Electronic Product 849,Electronics,LG,418.84,175
+850,Sport Product 850,Sports,Sony,1498.21,95
+851,Home Appliance Product 851,Home Appliances,Dell,1569.77,81
+852,Clothing Product 852,Clothing,Adidas,234.36,147
+853,Home Appliance Product 853,Home Appliances,Lenovo,151.31,23
+854,Grocery Product 854,Grocery,Nike,272.65,165
+855,Clothing Product 855,Clothing,Nike,1097.25,64
+856,Office Supplie Product 856,Office Supplies,Ikea,1909.36,38
+857,Electronic Product 857,Electronics,Lenovo,144.39,87
+858,Furniture Product 858,Furniture,Dell,1845.93,121
+859,Sport Product 859,Sports,LG,1260.86,148
+860,Office Supplie Product 860,Office Supplies,Adidas,852.91,122
+861,Electronic Product 861,Electronics,Philips,1079.93,59
+862,Grocery Product 862,Grocery,HP,626.71,150
+863,Furniture Product 863,Furniture,Samsung,1077.42,120
+864,Sport Product 864,Sports,HP,627.24,131
+865,Home Appliance Product 865,Home Appliances,Sony,125.23,42
+866,Clothing Product 866,Clothing,HP,912.21,175
+867,Electronic Product 867,Electronics,LG,1335.5,188
+868,Home Appliance Product 868,Home Appliances,Samsung,247.69,55
+869,Home Appliance Product 869,Home Appliances,Dell,336.03,108
+870,Sport Product 870,Sports,Philips,1568.14,86
+871,Furniture Product 871,Furniture,Nike,262.59,88
+872,Home Appliance Product 872,Home Appliances,HP,1545.15,27
+873,Grocery Product 873,Grocery,Adidas,551.24,36
+874,Grocery Product 874,Grocery,Lenovo,1258.79,147
+875,Clothing Product 875,Clothing,Philips,726.65,147
+876,Office Supplie Product 876,Office Supplies,Lenovo,342.09,60
+877,Grocery Product 877,Grocery,HP,1789.59,192
+878,Home Appliance Product 878,Home Appliances,HP,464.52,150
+879,Electronic Product 879,Electronics,Dell,1718.79,23
+880,Furniture Product 880,Furniture,Dell,948.81,118
+881,Furniture Product 881,Furniture,Samsung,1863.01,29
+882,Sport Product 882,Sports,Adidas,456.79,83
+883,Clothing Product 883,Clothing,Nike,549.8,39
+884,Sport Product 884,Sports,Nike,247.61,192
+885,Electronic Product 885,Electronics,Samsung,454.14,152
+886,Electronic Product 886,Electronics,Adidas,147.16,139
+887,Office Supplie Product 887,Office Supplies,LG,1549.32,99
+888,Grocery Product 888,Grocery,HP,1110.65,22
+889,Grocery Product 889,Grocery,Sony,590.27,97
+890,Home Appliance Product 890,Home Appliances,Lenovo,492.74,114
+891,Sport Product 891,Sports,Ikea,1995.6,70
+892,Home Appliance Product 892,Home Appliances,Philips,1523.36,82
+893,Furniture Product 893,Furniture,Dell,1865.47,26
+894,Furniture Product 894,Furniture,Philips,699.38,197
+895,Electronic Product 895,Electronics,Nike,12.91,188
+896,Clothing Product 896,Clothing,LG,216.86,155
+897,Furniture Product 897,Furniture,Adidas,989.14,35
+898,Furniture Product 898,Furniture,LG,195.12,79
+899,Office Supplie Product 899,Office Supplies,Philips,831.98,115
+900,Clothing Product 900,Clothing,HP,1165.73,149
+901,Furniture Product 901,Furniture,Adidas,158.91,165
+902,Electronic Product 902,Electronics,Adidas,1328.26,53
+903,Furniture Product 903,Furniture,LG,529.37,100
+904,Office Supplie Product 904,Office Supplies,Adidas,1404.44,103
+905,Grocery Product 905,Grocery,Ikea,551.19,39
+906,Furniture Product 906,Furniture,Samsung,1562.07,169
+907,Electronic Product 907,Electronics,Samsung,220.26,135
+908,Clothing Product 908,Clothing,Nike,818.96,157
+909,Grocery Product 909,Grocery,Sony,909.31,138
+910,Grocery Product 910,Grocery,HP,189.94,195
+911,Grocery Product 911,Grocery,Lenovo,90.26,103
+912,Furniture Product 912,Furniture,HP,1425.2,111
+913,Clothing Product 913,Clothing,Philips,107.41,96
+914,Grocery Product 914,Grocery,Samsung,71.85,123
+915,Office Supplie Product 915,Office Supplies,Ikea,1116.35,160
+916,Furniture Product 916,Furniture,HP,929.47,55
+917,Electronic Product 917,Electronics,Dell,132.72,76
+918,Furniture Product 918,Furniture,Sony,1649.11,115
+919,Home Appliance Product 919,Home Appliances,HP,1168.82,86
+920,Office Supplie Product 920,Office Supplies,HP,53.38,36
+921,Furniture Product 921,Furniture,Ikea,1620.5,43
+922,Office Supplie Product 922,Office Supplies,Nike,253.83,138
+923,Electronic Product 923,Electronics,Samsung,1849.02,130
+924,Office Supplie Product 924,Office Supplies,Adidas,997.29,117
+925,Home Appliance Product 925,Home Appliances,Adidas,353.89,74
+926,Furniture Product 926,Furniture,LG,566.91,58
+927,Electronic Product 927,Electronics,Lenovo,1242.16,82
+928,Home Appliance Product 928,Home Appliances,LG,1002.79,160
+929,Clothing Product 929,Clothing,Dell,184.57,118
+930,Furniture Product 930,Furniture,Adidas,406.92,154
+931,Furniture Product 931,Furniture,Philips,1591.74,117
+932,Office Supplie Product 932,Office Supplies,Nike,964.57,144
+933,Grocery Product 933,Grocery,Lenovo,1009.76,119
+934,Grocery Product 934,Grocery,Samsung,61.87,172
+935,Furniture Product 935,Furniture,Dell,1792.57,91
+936,Electronic Product 936,Electronics,Ikea,1063.57,169
+937,Furniture Product 937,Furniture,Samsung,209.27,188
+938,Furniture Product 938,Furniture,LG,1072.04,34
+939,Office Supplie Product 939,Office Supplies,Sony,1155.63,119
+940,Grocery Product 940,Grocery,Samsung,360.44,171
+941,Grocery Product 941,Grocery,Nike,1828.82,27
+942,Home Appliance Product 942,Home Appliances,Nike,1895.64,164
+943,Furniture Product 943,Furniture,Lenovo,1897.25,146
+944,Sport Product 944,Sports,LG,359.36,29
+945,Electronic Product 945,Electronics,Dell,472.92,76
+946,Electronic Product 946,Electronics,Philips,961.2,104
+947,Sport Product 947,Sports,Sony,1614.83,107
+948,Home Appliance Product 948,Home Appliances,Samsung,1838.37,102
+949,Electronic Product 949,Electronics,Dell,303.95,200
+950,Furniture Product 950,Furniture,HP,1694.5,113
+951,Electronic Product 951,Electronics,Nike,1412.03,189
+952,Clothing Product 952,Clothing,Lenovo,211.05,97
+953,Grocery Product 953,Grocery,Samsung,1951.96,131
+954,Office Supplie Product 954,Office Supplies,Ikea,1301.87,64
+955,Home Appliance Product 955,Home Appliances,Philips,1390.19,177
+956,Office Supplie Product 956,Office Supplies,Nike,454.24,170
+957,Office Supplie Product 957,Office Supplies,Samsung,762.98,196
+958,Grocery Product 958,Grocery,Samsung,363.64,20
+959,Home Appliance Product 959,Home Appliances,Lenovo,789.29,165
+960,Electronic Product 960,Electronics,Samsung,1208.75,176
+961,Furniture Product 961,Furniture,Lenovo,217.18,147
+962,Furniture Product 962,Furniture,Nike,1493.23,80
+963,Grocery Product 963,Grocery,Nike,344.1,42
+964,Office Supplie Product 964,Office Supplies,Nike,898.79,87
+965,Furniture Product 965,Furniture,Sony,1389.42,109
+966,Grocery Product 966,Grocery,HP,1443.62,32
+967,Clothing Product 967,Clothing,Ikea,1467.84,62
+968,Clothing Product 968,Clothing,Ikea,1764.72,109
+969,Sport Product 969,Sports,Adidas,211.84,142
+970,Office Supplie Product 970,Office Supplies,Lenovo,1305.43,195
+971,Furniture Product 971,Furniture,Samsung,908.06,28
+972,Grocery Product 972,Grocery,Dell,644.25,46
+973,Electronic Product 973,Electronics,Nike,348.51,116
+974,Furniture Product 974,Furniture,HP,1098.62,43
+975,Grocery Product 975,Grocery,Lenovo,1970.7,143
+976,Home Appliance Product 976,Home Appliances,Dell,868.33,187
+977,Furniture Product 977,Furniture,Lenovo,1780.61,60
+978,Electronic Product 978,Electronics,HP,668.88,68
+979,Clothing Product 979,Clothing,Philips,1446.86,158
+980,Grocery Product 980,Grocery,LG,601.83,44
+981,Electronic Product 981,Electronics,Adidas,1147.82,145
+982,Furniture Product 982,Furniture,Dell,728.05,129
+983,Electronic Product 983,Electronics,LG,1649.56,180
+984,Sport Product 984,Sports,Ikea,407.35,26
+985,Furniture Product 985,Furniture,Samsung,1280.0,40
+986,Clothing Product 986,Clothing,HP,623.62,121
+987,Clothing Product 987,Clothing,Ikea,1790.81,87
+988,Electronic Product 988,Electronics,Philips,781.18,114
+989,Clothing Product 989,Clothing,Nike,381.3,31
+990,Grocery Product 990,Grocery,Ikea,935.47,77
+991,Office Supplie Product 991,Office Supplies,LG,1132.85,58
+992,Office Supplie Product 992,Office Supplies,HP,180.56,108
+993,Office Supplie Product 993,Office Supplies,Philips,833.83,170
+994,Furniture Product 994,Furniture,Philips,131.36,119
+995,Office Supplie Product 995,Office Supplies,Philips,843.08,157
+996,Home Appliance Product 996,Home Appliances,Ikea,1149.7,80
+997,Clothing Product 997,Clothing,LG,167.12,28
+998,Sport Product 998,Sports,Lenovo,1801.91,166
+999,Home Appliance Product 999,Home Appliances,Lenovo,303.42,134
+1000,Furniture Product 1000,Furniture,Samsung,1944.61,69
+1001,Furniture Product 1001,Furniture,Dell,852.52,194
+1002,Clothing Product 1002,Clothing,Sony,1994.57,180
+1003,Furniture Product 1003,Furniture,Lenovo,523.19,37
+1004,Electronic Product 1004,Electronics,Adidas,1117.16,161
+1005,Grocery Product 1005,Grocery,LG,1044.18,23
+1006,Office Supplie Product 1006,Office Supplies,Lenovo,1179.28,127
+1007,Electronic Product 1007,Electronics,Adidas,307.79,165
+1008,Sport Product 1008,Sports,Lenovo,1519.17,45
+1009,Electronic Product 1009,Electronics,Lenovo,1561.29,93
+1010,Office Supplie Product 1010,Office Supplies,Philips,1761.47,125
+1011,Grocery Product 1011,Grocery,Adidas,1313.03,166
+1012,Sport Product 1012,Sports,Ikea,84.56,90
+1013,Clothing Product 1013,Clothing,Samsung,1240.31,194
+1014,Home Appliance Product 1014,Home Appliances,Adidas,87.18,104
+1015,Home Appliance Product 1015,Home Appliances,Sony,108.09,141
+1016,Grocery Product 1016,Grocery,Nike,50.26,97
+1017,Grocery Product 1017,Grocery,LG,1687.26,198
+1018,Home Appliance Product 1018,Home Appliances,HP,1945.27,78
+1019,Furniture Product 1019,Furniture,LG,1948.7,133
+1020,Office Supplie Product 1020,Office Supplies,Nike,546.15,126
+1021,Sport Product 1021,Sports,HP,383.99,74
+1022,Office Supplie Product 1022,Office Supplies,Adidas,1484.48,152
+1023,Office Supplie Product 1023,Office Supplies,Nike,1643.82,151
+1024,Office Supplie Product 1024,Office Supplies,Samsung,140.58,149
+1025,Clothing Product 1025,Clothing,Samsung,1563.23,154
+1026,Sport Product 1026,Sports,Dell,355.74,71
+1027,Office Supplie Product 1027,Office Supplies,Dell,506.49,136
+1028,Electronic Product 1028,Electronics,Nike,1412.22,90
+1029,Grocery Product 1029,Grocery,Ikea,1015.2,182
+1030,Electronic Product 1030,Electronics,Dell,491.46,145
+1031,Sport Product 1031,Sports,Ikea,363.39,141
+1032,Sport Product 1032,Sports,Philips,706.02,61
+1033,Office Supplie Product 1033,Office Supplies,LG,1500.43,196
+1034,Electronic Product 1034,Electronics,LG,64.63,32
+1035,Furniture Product 1035,Furniture,Lenovo,1561.86,74
+1036,Office Supplie Product 1036,Office Supplies,Sony,1298.29,193
+1037,Furniture Product 1037,Furniture,LG,1306.66,151
+1038,Electronic Product 1038,Electronics,Dell,953.45,53
+1039,Home Appliance Product 1039,Home Appliances,Samsung,1206.27,22
+1040,Furniture Product 1040,Furniture,LG,1220.6,98
+1041,Home Appliance Product 1041,Home Appliances,LG,853.38,116
+1042,Office Supplie Product 1042,Office Supplies,Nike,923.41,75
+1043,Clothing Product 1043,Clothing,LG,1357.62,179
+1044,Clothing Product 1044,Clothing,Lenovo,213.6,150
+1045,Home Appliance Product 1045,Home Appliances,Nike,1127.3,172
+1046,Sport Product 1046,Sports,LG,603.97,47
+1047,Clothing Product 1047,Clothing,HP,679.2,90
+1048,Home Appliance Product 1048,Home Appliances,Nike,1724.37,86
+1049,Home Appliance Product 1049,Home Appliances,LG,384.84,152
+1050,Office Supplie Product 1050,Office Supplies,Sony,1800.38,173
+1051,Clothing Product 1051,Clothing,Nike,1364.7,26
+1052,Home Appliance Product 1052,Home Appliances,Ikea,1994.96,86
+1053,Clothing Product 1053,Clothing,Adidas,782.67,29
+1054,Sport Product 1054,Sports,Lenovo,1633.87,107
+1055,Home Appliance Product 1055,Home Appliances,Sony,1375.77,183
+1056,Office Supplie Product 1056,Office Supplies,Ikea,1813.99,191
+1057,Grocery Product 1057,Grocery,Philips,607.39,63
+1058,Office Supplie Product 1058,Office Supplies,Philips,370.46,44
+1059,Clothing Product 1059,Clothing,Samsung,1484.43,163
+1060,Office Supplie Product 1060,Office Supplies,Samsung,1894.38,105
+1061,Home Appliance Product 1061,Home Appliances,HP,452.28,77
+1062,Home Appliance Product 1062,Home Appliances,LG,846.74,104
+1063,Grocery Product 1063,Grocery,LG,1175.29,138
+1064,Office Supplie Product 1064,Office Supplies,HP,946.37,182
+1065,Sport Product 1065,Sports,Lenovo,1889.16,38
+1066,Clothing Product 1066,Clothing,Sony,1005.95,194
+1067,Clothing Product 1067,Clothing,Philips,603.73,33
+1068,Office Supplie Product 1068,Office Supplies,Samsung,283.36,71
+1069,Grocery Product 1069,Grocery,Adidas,1974.51,137
+1070,Furniture Product 1070,Furniture,Nike,1726.16,66
+1071,Office Supplie Product 1071,Office Supplies,HP,980.29,181
+1072,Furniture Product 1072,Furniture,Nike,1272.65,21
+1073,Clothing Product 1073,Clothing,LG,426.67,63
+1074,Sport Product 1074,Sports,Samsung,984.26,42
+1075,Furniture Product 1075,Furniture,Lenovo,873.09,129
+1076,Clothing Product 1076,Clothing,Adidas,1931.0,118
+1077,Electronic Product 1077,Electronics,Dell,1072.23,115
+1078,Electronic Product 1078,Electronics,Nike,1516.13,155
+1079,Furniture Product 1079,Furniture,Dell,1356.73,180
+1080,Home Appliance Product 1080,Home Appliances,Sony,460.27,108
+1081,Grocery Product 1081,Grocery,Samsung,214.39,148
+1082,Sport Product 1082,Sports,LG,342.37,31
+1083,Grocery Product 1083,Grocery,LG,917.29,153
+1084,Sport Product 1084,Sports,Philips,682.29,195
+1085,Furniture Product 1085,Furniture,Nike,1992.32,145
+1086,Grocery Product 1086,Grocery,Sony,338.12,123
+1087,Electronic Product 1087,Electronics,Sony,456.4,53
+1088,Furniture Product 1088,Furniture,Dell,1183.49,63
+1089,Electronic Product 1089,Electronics,Nike,1425.11,29
+1090,Clothing Product 1090,Clothing,LG,1544.79,179
+1091,Electronic Product 1091,Electronics,Lenovo,1989.41,189
+1092,Electronic Product 1092,Electronics,Dell,105.99,49
+1093,Clothing Product 1093,Clothing,Ikea,766.7,160
+1094,Grocery Product 1094,Grocery,Ikea,1406.72,72
+1095,Home Appliance Product 1095,Home Appliances,Dell,609.22,189
+1096,Electronic Product 1096,Electronics,Philips,547.25,175
+1097,Home Appliance Product 1097,Home Appliances,Samsung,843.46,46
+1098,Sport Product 1098,Sports,Lenovo,244.29,49
+1099,Office Supplie Product 1099,Office Supplies,HP,1000.5,175
+1100,Furniture Product 1100,Furniture,LG,1664.68,71
+1101,Grocery Product 1101,Grocery,Adidas,597.75,30
+1102,Sport Product 1102,Sports,Ikea,1821.61,196
+1103,Clothing Product 1103,Clothing,Nike,476.67,23
+1104,Home Appliance Product 1104,Home Appliances,HP,1814.69,166
+1105,Home Appliance Product 1105,Home Appliances,Ikea,306.8,43
+1106,Office Supplie Product 1106,Office Supplies,Philips,159.35,45
+1107,Grocery Product 1107,Grocery,Sony,918.93,95
+1108,Grocery Product 1108,Grocery,Ikea,109.66,64
+1109,Office Supplie Product 1109,Office Supplies,Dell,1705.97,112
+1110,Office Supplie Product 1110,Office Supplies,Nike,857.73,49
+1111,Electronic Product 1111,Electronics,Dell,29.25,55
+1112,Home Appliance Product 1112,Home Appliances,Samsung,664.04,132
+1113,Sport Product 1113,Sports,LG,1758.17,43
+1114,Grocery Product 1114,Grocery,Nike,373.91,122
+1115,Clothing Product 1115,Clothing,Ikea,550.95,118
+1116,Home Appliance Product 1116,Home Appliances,Ikea,1601.8,186
+1117,Office Supplie Product 1117,Office Supplies,Samsung,234.98,198
+1118,Home Appliance Product 1118,Home Appliances,Dell,1963.32,60
+1119,Electronic Product 1119,Electronics,Adidas,1823.34,143
+1120,Office Supplie Product 1120,Office Supplies,Lenovo,1360.0,66
+1121,Sport Product 1121,Sports,Adidas,1560.54,176
+1122,Electronic Product 1122,Electronics,Samsung,971.33,144
+1123,Electronic Product 1123,Electronics,Adidas,886.97,36
+1124,Grocery Product 1124,Grocery,Nike,34.6,193
+1125,Sport Product 1125,Sports,Lenovo,1450.31,77
+1126,Home Appliance Product 1126,Home Appliances,Nike,1043.01,196
+1127,Home Appliance Product 1127,Home Appliances,Lenovo,199.53,189
+1128,Home Appliance Product 1128,Home Appliances,Sony,969.04,189
+1129,Home Appliance Product 1129,Home Appliances,Adidas,305.82,162
+1130,Sport Product 1130,Sports,Dell,33.17,60
+1131,Sport Product 1131,Sports,Ikea,1705.22,62
+1132,Electronic Product 1132,Electronics,Ikea,648.06,104
+1133,Grocery Product 1133,Grocery,Dell,1018.79,160
+1134,Home Appliance Product 1134,Home Appliances,Adidas,812.52,80
+1135,Electronic Product 1135,Electronics,Ikea,893.94,166
+1136,Clothing Product 1136,Clothing,HP,1714.61,134
+1137,Grocery Product 1137,Grocery,HP,1961.53,187
+1138,Electronic Product 1138,Electronics,HP,812.84,29
+1139,Sport Product 1139,Sports,Philips,10.34,43
+1140,Office Supplie Product 1140,Office Supplies,Lenovo,1926.71,183
+1141,Grocery Product 1141,Grocery,Philips,1129.04,187
+1142,Home Appliance Product 1142,Home Appliances,Ikea,1901.21,113
+1143,Office Supplie Product 1143,Office Supplies,Dell,1635.01,136
+1144,Grocery Product 1144,Grocery,Philips,1537.16,173
+1145,Clothing Product 1145,Clothing,Nike,1434.67,49
+1146,Electronic Product 1146,Electronics,Sony,14.37,110
+1147,Office Supplie Product 1147,Office Supplies,LG,1099.9,115
+1148,Home Appliance Product 1148,Home Appliances,HP,101.1,62
+1149,Clothing Product 1149,Clothing,Samsung,1645.46,124
+1150,Electronic Product 1150,Electronics,LG,1225.6,68
+1151,Electronic Product 1151,Electronics,Adidas,439.02,68
+1152,Home Appliance Product 1152,Home Appliances,Nike,224.45,126
+1153,Electronic Product 1153,Electronics,Lenovo,255.21,135
+1154,Clothing Product 1154,Clothing,Lenovo,1912.82,54
+1155,Clothing Product 1155,Clothing,Dell,1065.43,32
+1156,Sport Product 1156,Sports,Adidas,1679.24,143
+1157,Sport Product 1157,Sports,Samsung,1386.72,64
+1158,Home Appliance Product 1158,Home Appliances,Samsung,216.07,188
+1159,Sport Product 1159,Sports,Lenovo,1766.56,149
+1160,Clothing Product 1160,Clothing,Adidas,1959.21,197
+1161,Office Supplie Product 1161,Office Supplies,Sony,554.46,107
+1162,Grocery Product 1162,Grocery,Ikea,1611.55,55
+1163,Clothing Product 1163,Clothing,Lenovo,1403.03,151
+1164,Grocery Product 1164,Grocery,Philips,1722.81,161
+1165,Home Appliance Product 1165,Home Appliances,Sony,409.77,179
+1166,Home Appliance Product 1166,Home Appliances,LG,1376.36,192
+1167,Furniture Product 1167,Furniture,Samsung,1012.75,197
+1168,Home Appliance Product 1168,Home Appliances,Nike,1423.6,110
+1169,Sport Product 1169,Sports,Ikea,1169.78,190
+1170,Home Appliance Product 1170,Home Appliances,Adidas,1351.74,156
+1171,Grocery Product 1171,Grocery,Adidas,1618.53,153
+1172,Electronic Product 1172,Electronics,Dell,767.93,33
+1173,Home Appliance Product 1173,Home Appliances,Dell,407.81,61
+1174,Grocery Product 1174,Grocery,LG,301.39,35
+1175,Home Appliance Product 1175,Home Appliances,LG,415.96,158
+1176,Electronic Product 1176,Electronics,Nike,1629.91,46
+1177,Sport Product 1177,Sports,Philips,1731.03,185
+1178,Sport Product 1178,Sports,Adidas,482.81,198
+1179,Grocery Product 1179,Grocery,Dell,1853.7,119
+1180,Clothing Product 1180,Clothing,Nike,1932.01,33
+1181,Electronic Product 1181,Electronics,LG,414.14,133
+1182,Office Supplie Product 1182,Office Supplies,Sony,1823.86,200
+1183,Home Appliance Product 1183,Home Appliances,Nike,1512.66,159
+1184,Home Appliance Product 1184,Home Appliances,Lenovo,400.97,69
+1185,Grocery Product 1185,Grocery,Ikea,363.08,194
+1186,Electronic Product 1186,Electronics,Samsung,1925.33,151
+1187,Electronic Product 1187,Electronics,Adidas,90.86,91
+1188,Sport Product 1188,Sports,LG,268.83,169
+1189,Office Supplie Product 1189,Office Supplies,LG,21.23,139
+1190,Home Appliance Product 1190,Home Appliances,Samsung,89.48,102
+1191,Sport Product 1191,Sports,Dell,1549.59,180
+1192,Sport Product 1192,Sports,LG,986.2,166
+1193,Sport Product 1193,Sports,Nike,155.03,101
+1194,Sport Product 1194,Sports,Sony,1914.41,153
+1195,Electronic Product 1195,Electronics,Philips,327.15,159
+1196,Sport Product 1196,Sports,Adidas,192.97,76
+1197,Furniture Product 1197,Furniture,Nike,668.82,95
+1198,Furniture Product 1198,Furniture,Lenovo,1065.69,163
+1199,Office Supplie Product 1199,Office Supplies,Dell,238.3,108
+1200,Clothing Product 1200,Clothing,Sony,1809.95,177
+1201,Sport Product 1201,Sports,Sony,1918.2,194
+1202,Grocery Product 1202,Grocery,Adidas,1832.71,49
+1203,Clothing Product 1203,Clothing,LG,1085.07,92
+1204,Electronic Product 1204,Electronics,Philips,1646.0,115
+1205,Sport Product 1205,Sports,Philips,896.66,31
+1206,Grocery Product 1206,Grocery,Sony,647.42,41
+1207,Electronic Product 1207,Electronics,Samsung,1943.54,157
+1208,Sport Product 1208,Sports,Dell,1257.6,73
+1209,Home Appliance Product 1209,Home Appliances,Sony,1731.25,128
+1210,Office Supplie Product 1210,Office Supplies,HP,419.1,199
+1211,Home Appliance Product 1211,Home Appliances,Adidas,1296.66,38
+1212,Home Appliance Product 1212,Home Appliances,Samsung,57.27,104
+1213,Electronic Product 1213,Electronics,HP,155.76,65
+1214,Office Supplie Product 1214,Office Supplies,LG,1120.59,167
+1215,Office Supplie Product 1215,Office Supplies,Sony,1822.86,124
+1216,Clothing Product 1216,Clothing,Ikea,1264.13,130
+1217,Grocery Product 1217,Grocery,Dell,785.11,50
+1218,Sport Product 1218,Sports,Dell,1286.43,178
+1219,Electronic Product 1219,Electronics,Lenovo,100.58,38
+1220,Grocery Product 1220,Grocery,Philips,221.21,195
+1221,Grocery Product 1221,Grocery,Lenovo,182.15,132
+1222,Clothing Product 1222,Clothing,Adidas,1646.02,27
+1223,Clothing Product 1223,Clothing,Samsung,1071.6,54
+1224,Home Appliance Product 1224,Home Appliances,Adidas,1595.57,159
+1225,Grocery Product 1225,Grocery,Samsung,603.13,185
+1226,Grocery Product 1226,Grocery,Dell,1111.51,162
+1227,Furniture Product 1227,Furniture,HP,93.13,166
+1228,Sport Product 1228,Sports,Adidas,1078.93,41
+1229,Grocery Product 1229,Grocery,Sony,1499.11,108
+1230,Furniture Product 1230,Furniture,Adidas,1812.2,151
+1231,Furniture Product 1231,Furniture,Samsung,376.15,177
+1232,Office Supplie Product 1232,Office Supplies,LG,396.71,66
+1233,Home Appliance Product 1233,Home Appliances,Lenovo,1705.98,160
+1234,Clothing Product 1234,Clothing,Philips,155.56,191
+1235,Electronic Product 1235,Electronics,LG,205.42,168
+1236,Clothing Product 1236,Clothing,Nike,720.71,191
+1237,Home Appliance Product 1237,Home Appliances,Sony,209.09,178
+1238,Electronic Product 1238,Electronics,Sony,642.39,135
+1239,Grocery Product 1239,Grocery,Lenovo,1322.25,197
+1240,Sport Product 1240,Sports,Samsung,1135.45,113
+1241,Office Supplie Product 1241,Office Supplies,Nike,1917.73,63
+1242,Electronic Product 1242,Electronics,Nike,499.89,76
+1243,Home Appliance Product 1243,Home Appliances,Adidas,560.59,112
+1244,Furniture Product 1244,Furniture,Nike,1756.99,138
+1245,Clothing Product 1245,Clothing,Nike,1551.79,144
+1246,Sport Product 1246,Sports,HP,359.78,175
+1247,Electronic Product 1247,Electronics,LG,1718.84,55
+1248,Sport Product 1248,Sports,Sony,533.84,180
+1249,Electronic Product 1249,Electronics,HP,1785.29,149
+1250,Home Appliance Product 1250,Home Appliances,Dell,1627.16,168
+1251,Clothing Product 1251,Clothing,Lenovo,433.39,29
+1252,Sport Product 1252,Sports,LG,1091.5,158
+1253,Clothing Product 1253,Clothing,Samsung,737.98,77
+1254,Office Supplie Product 1254,Office Supplies,Lenovo,1469.12,94
+1255,Furniture Product 1255,Furniture,Ikea,1007.24,43
+1256,Clothing Product 1256,Clothing,Nike,1009.31,189
+1257,Furniture Product 1257,Furniture,Lenovo,1371.48,151
+1258,Furniture Product 1258,Furniture,Ikea,326.85,164
+1259,Sport Product 1259,Sports,Samsung,1474.48,143
+1260,Grocery Product 1260,Grocery,Dell,445.45,144
+1261,Furniture Product 1261,Furniture,HP,536.07,79
+1262,Electronic Product 1262,Electronics,Sony,1040.59,112
+1263,Clothing Product 1263,Clothing,Ikea,1836.62,31
+1264,Electronic Product 1264,Electronics,Nike,215.42,153
+1265,Home Appliance Product 1265,Home Appliances,LG,1671.4,87
+1266,Sport Product 1266,Sports,Philips,1144.62,116
+1267,Home Appliance Product 1267,Home Appliances,Adidas,736.94,187
+1268,Office Supplie Product 1268,Office Supplies,HP,1038.16,116
+1269,Furniture Product 1269,Furniture,Philips,817.63,108
+1270,Clothing Product 1270,Clothing,Ikea,1775.47,21
+1271,Sport Product 1271,Sports,Samsung,885.4,78
+1272,Electronic Product 1272,Electronics,Philips,1290.52,74
+1273,Furniture Product 1273,Furniture,Samsung,323.14,174
+1274,Home Appliance Product 1274,Home Appliances,HP,1325.61,126
+1275,Office Supplie Product 1275,Office Supplies,Nike,1443.31,143
+1276,Home Appliance Product 1276,Home Appliances,Ikea,963.25,171
+1277,Furniture Product 1277,Furniture,Adidas,54.67,31
+1278,Furniture Product 1278,Furniture,Lenovo,1188.77,54
+1279,Home Appliance Product 1279,Home Appliances,Philips,87.99,166
+1280,Furniture Product 1280,Furniture,Dell,341.02,66
+1281,Sport Product 1281,Sports,Adidas,1202.72,164
+1282,Home Appliance Product 1282,Home Appliances,Dell,1758.23,189
+1283,Office Supplie Product 1283,Office Supplies,LG,1895.04,75
+1284,Clothing Product 1284,Clothing,Lenovo,1985.62,143
+1285,Furniture Product 1285,Furniture,Sony,1662.42,173
+1286,Furniture Product 1286,Furniture,Lenovo,1642.7,66
+1287,Sport Product 1287,Sports,Philips,536.4,195
+1288,Grocery Product 1288,Grocery,Ikea,1197.1,37
+1289,Furniture Product 1289,Furniture,Adidas,777.07,47
+1290,Electronic Product 1290,Electronics,Sony,1050.2,149
+1291,Home Appliance Product 1291,Home Appliances,Adidas,1654.76,175
+1292,Electronic Product 1292,Electronics,Samsung,956.98,177
+1293,Sport Product 1293,Sports,Dell,1756.73,156
+1294,Sport Product 1294,Sports,HP,195.45,188
+1295,Furniture Product 1295,Furniture,Lenovo,1083.18,20
+1296,Office Supplie Product 1296,Office Supplies,Adidas,1048.87,114
+1297,Office Supplie Product 1297,Office Supplies,Dell,1398.31,129
+1298,Furniture Product 1298,Furniture,Ikea,1581.22,117
+1299,Grocery Product 1299,Grocery,Lenovo,1611.2,198
+1300,Sport Product 1300,Sports,HP,856.72,85
+1301,Clothing Product 1301,Clothing,Sony,1821.07,41
+1302,Grocery Product 1302,Grocery,Lenovo,1754.76,124
+1303,Grocery Product 1303,Grocery,Sony,20.88,21
+1304,Sport Product 1304,Sports,Philips,244.48,21
+1305,Clothing Product 1305,Clothing,Sony,1378.66,100
+1306,Clothing Product 1306,Clothing,Nike,222.1,129
+1307,Home Appliance Product 1307,Home Appliances,Lenovo,514.73,157
+1308,Clothing Product 1308,Clothing,Lenovo,737.63,90
+1309,Home Appliance Product 1309,Home Appliances,Adidas,1512.39,125
+1310,Sport Product 1310,Sports,Philips,970.11,114
+1311,Sport Product 1311,Sports,Philips,972.68,98
+1312,Sport Product 1312,Sports,Nike,1550.65,121
+1313,Home Appliance Product 1313,Home Appliances,Samsung,1711.45,188
+1314,Electronic Product 1314,Electronics,Sony,898.72,199
+1315,Furniture Product 1315,Furniture,HP,436.77,122
+1316,Office Supplie Product 1316,Office Supplies,Nike,1603.7,177
+1317,Home Appliance Product 1317,Home Appliances,Dell,329.87,182
+1318,Electronic Product 1318,Electronics,HP,1648.28,140
+1319,Sport Product 1319,Sports,Adidas,185.4,87
+1320,Furniture Product 1320,Furniture,Nike,169.28,29
+1321,Home Appliance Product 1321,Home Appliances,Adidas,1862.06,122
+1322,Sport Product 1322,Sports,Philips,580.07,172
+1323,Electronic Product 1323,Electronics,Samsung,1284.18,132
+1324,Electronic Product 1324,Electronics,Sony,1702.63,152
+1325,Grocery Product 1325,Grocery,Sony,76.88,173
+1326,Sport Product 1326,Sports,Philips,1399.91,177
+1327,Furniture Product 1327,Furniture,Dell,725.88,187
+1328,Electronic Product 1328,Electronics,Samsung,182.82,90
+1329,Office Supplie Product 1329,Office Supplies,Adidas,712.72,121
+1330,Clothing Product 1330,Clothing,Lenovo,408.62,23
+1331,Home Appliance Product 1331,Home Appliances,HP,1839.16,160
+1332,Grocery Product 1332,Grocery,Philips,1830.87,109
+1333,Grocery Product 1333,Grocery,LG,460.33,69
+1334,Clothing Product 1334,Clothing,Adidas,1154.06,86
+1335,Furniture Product 1335,Furniture,Adidas,1017.41,163
+1336,Electronic Product 1336,Electronics,Philips,595.56,49
+1337,Office Supplie Product 1337,Office Supplies,Philips,1913.85,157
+1338,Office Supplie Product 1338,Office Supplies,Lenovo,507.78,133
+1339,Clothing Product 1339,Clothing,Lenovo,972.42,82
+1340,Office Supplie Product 1340,Office Supplies,Nike,1922.87,137
+1341,Home Appliance Product 1341,Home Appliances,Ikea,1794.08,27
+1342,Clothing Product 1342,Clothing,HP,523.06,117
+1343,Home Appliance Product 1343,Home Appliances,Sony,1357.06,78
+1344,Office Supplie Product 1344,Office Supplies,Nike,830.73,110
+1345,Sport Product 1345,Sports,Philips,29.35,87
+1346,Furniture Product 1346,Furniture,LG,195.09,192
+1347,Home Appliance Product 1347,Home Appliances,Nike,161.3,65
+1348,Clothing Product 1348,Clothing,Nike,713.54,166
+1349,Grocery Product 1349,Grocery,Samsung,1894.77,194
+1350,Furniture Product 1350,Furniture,Ikea,1476.85,80
+1351,Home Appliance Product 1351,Home Appliances,Sony,1746.76,72
+1352,Furniture Product 1352,Furniture,Sony,1671.53,178
+1353,Grocery Product 1353,Grocery,Samsung,1560.09,50
+1354,Electronic Product 1354,Electronics,Ikea,1231.52,158
+1355,Electronic Product 1355,Electronics,Ikea,748.68,100
+1356,Clothing Product 1356,Clothing,Lenovo,1738.85,145
+1357,Furniture Product 1357,Furniture,Philips,567.73,76
+1358,Office Supplie Product 1358,Office Supplies,Lenovo,265.21,154
+1359,Office Supplie Product 1359,Office Supplies,Adidas,961.86,158
+1360,Electronic Product 1360,Electronics,Philips,701.11,195
+1361,Office Supplie Product 1361,Office Supplies,Samsung,919.82,50
+1362,Home Appliance Product 1362,Home Appliances,Philips,925.54,196
+1363,Electronic Product 1363,Electronics,Dell,1351.47,117
+1364,Sport Product 1364,Sports,HP,657.62,176
+1365,Office Supplie Product 1365,Office Supplies,LG,382.43,87
+1366,Furniture Product 1366,Furniture,LG,947.98,176
+1367,Grocery Product 1367,Grocery,Nike,375.99,128
+1368,Furniture Product 1368,Furniture,Adidas,1404.42,115
+1369,Grocery Product 1369,Grocery,Adidas,566.46,66
+1370,Sport Product 1370,Sports,Samsung,1958.75,195
+1371,Furniture Product 1371,Furniture,HP,1444.42,80
+1372,Sport Product 1372,Sports,Adidas,1714.05,70
+1373,Furniture Product 1373,Furniture,Samsung,951.24,22
+1374,Furniture Product 1374,Furniture,Adidas,1004.2,181
+1375,Sport Product 1375,Sports,Philips,1443.92,144
+1376,Grocery Product 1376,Grocery,LG,1128.66,165
+1377,Electronic Product 1377,Electronics,Adidas,206.96,61
+1378,Electronic Product 1378,Electronics,Sony,1629.5,141
+1379,Office Supplie Product 1379,Office Supplies,HP,905.21,105
+1380,Grocery Product 1380,Grocery,Nike,727.01,162
+1381,Office Supplie Product 1381,Office Supplies,LG,694.84,125
+1382,Electronic Product 1382,Electronics,Nike,1736.06,175
+1383,Furniture Product 1383,Furniture,Lenovo,1156.03,186
+1384,Sport Product 1384,Sports,Samsung,1958.95,92
+1385,Grocery Product 1385,Grocery,Nike,1349.65,144
+1386,Office Supplie Product 1386,Office Supplies,Ikea,1780.37,117
+1387,Sport Product 1387,Sports,LG,932.87,57
+1388,Office Supplie Product 1388,Office Supplies,Samsung,1284.76,106
+1389,Clothing Product 1389,Clothing,Lenovo,1147.56,38
+1390,Electronic Product 1390,Electronics,Samsung,693.81,100
+1391,Grocery Product 1391,Grocery,LG,1423.76,174
+1392,Home Appliance Product 1392,Home Appliances,Adidas,549.78,133
+1393,Office Supplie Product 1393,Office Supplies,Nike,1498.31,153
+1394,Clothing Product 1394,Clothing,Adidas,342.96,25
+1395,Furniture Product 1395,Furniture,Sony,1327.42,199
+1396,Home Appliance Product 1396,Home Appliances,HP,429.04,121
+1397,Electronic Product 1397,Electronics,HP,136.95,141
+1398,Sport Product 1398,Sports,Dell,62.47,121
+1399,Sport Product 1399,Sports,HP,216.82,178
+1400,Furniture Product 1400,Furniture,HP,1313.12,119
+1401,Grocery Product 1401,Grocery,Sony,502.32,92
+1402,Clothing Product 1402,Clothing,Samsung,271.24,63
+1403,Electronic Product 1403,Electronics,Dell,1330.46,103
+1404,Office Supplie Product 1404,Office Supplies,Ikea,939.72,158
+1405,Grocery Product 1405,Grocery,Philips,895.24,198
+1406,Sport Product 1406,Sports,Samsung,1185.75,136
+1407,Home Appliance Product 1407,Home Appliances,Lenovo,875.6,183
+1408,Home Appliance Product 1408,Home Appliances,Philips,626.23,108
+1409,Clothing Product 1409,Clothing,Philips,461.99,42
+1410,Clothing Product 1410,Clothing,LG,737.91,86
+1411,Furniture Product 1411,Furniture,LG,31.01,153
+1412,Office Supplie Product 1412,Office Supplies,Samsung,694.33,140
+1413,Sport Product 1413,Sports,Dell,1378.66,145
+1414,Office Supplie Product 1414,Office Supplies,Ikea,606.22,130
+1415,Office Supplie Product 1415,Office Supplies,LG,1198.04,21
+1416,Sport Product 1416,Sports,Nike,385.26,163
+1417,Clothing Product 1417,Clothing,Adidas,507.29,185
+1418,Clothing Product 1418,Clothing,Adidas,448.98,40
+1419,Clothing Product 1419,Clothing,Sony,1038.05,176
+1420,Office Supplie Product 1420,Office Supplies,LG,576.51,156
+1421,Office Supplie Product 1421,Office Supplies,LG,831.68,37
+1422,Furniture Product 1422,Furniture,Samsung,586.29,183
+1423,Clothing Product 1423,Clothing,Lenovo,911.01,199
+1424,Sport Product 1424,Sports,Ikea,383.7,24
+1425,Furniture Product 1425,Furniture,Dell,1939.74,25
+1426,Furniture Product 1426,Furniture,HP,571.41,52
+1427,Home Appliance Product 1427,Home Appliances,Ikea,1456.94,79
+1428,Electronic Product 1428,Electronics,Samsung,39.3,75
+1429,Grocery Product 1429,Grocery,Adidas,630.04,147
+1430,Grocery Product 1430,Grocery,Ikea,1396.9,28
+1431,Grocery Product 1431,Grocery,HP,1688.66,57
+1432,Electronic Product 1432,Electronics,LG,1553.55,38
+1433,Sport Product 1433,Sports,Ikea,371.39,84
+1434,Office Supplie Product 1434,Office Supplies,Adidas,1658.22,51
+1435,Office Supplie Product 1435,Office Supplies,Sony,775.75,133
+1436,Furniture Product 1436,Furniture,Dell,406.37,44
+1437,Sport Product 1437,Sports,Sony,950.92,194
+1438,Grocery Product 1438,Grocery,Nike,325.64,30
+1439,Home Appliance Product 1439,Home Appliances,Philips,1046.64,84
+1440,Clothing Product 1440,Clothing,LG,405.46,33
+1441,Office Supplie Product 1441,Office Supplies,Sony,1946.82,80
+1442,Home Appliance Product 1442,Home Appliances,Adidas,655.78,62
+1443,Office Supplie Product 1443,Office Supplies,LG,1173.55,121
+1444,Office Supplie Product 1444,Office Supplies,Sony,27.77,30
+1445,Sport Product 1445,Sports,Ikea,1379.93,59
+1446,Grocery Product 1446,Grocery,HP,504.96,147
+1447,Electronic Product 1447,Electronics,Lenovo,683.46,180
+1448,Electronic Product 1448,Electronics,Dell,717.48,59
+1449,Home Appliance Product 1449,Home Appliances,Philips,1585.02,52
+1450,Clothing Product 1450,Clothing,Sony,640.31,162
+1451,Office Supplie Product 1451,Office Supplies,Nike,1613.0,132
+1452,Home Appliance Product 1452,Home Appliances,Sony,52.49,116
+1453,Grocery Product 1453,Grocery,Samsung,508.89,30
+1454,Clothing Product 1454,Clothing,Ikea,1122.46,158
+1455,Home Appliance Product 1455,Home Appliances,Ikea,387.65,67
+1456,Sport Product 1456,Sports,Nike,654.12,139
+1457,Grocery Product 1457,Grocery,Lenovo,1829.8,161
+1458,Furniture Product 1458,Furniture,HP,1066.96,135
+1459,Grocery Product 1459,Grocery,LG,1087.8,136
+1460,Electronic Product 1460,Electronics,Philips,764.3,67
+1461,Electronic Product 1461,Electronics,Lenovo,1715.09,178
+1462,Furniture Product 1462,Furniture,Nike,1444.8,188
+1463,Sport Product 1463,Sports,Adidas,387.84,194
+1464,Clothing Product 1464,Clothing,Philips,316.72,92
+1465,Grocery Product 1465,Grocery,Adidas,1285.4,48
+1466,Electronic Product 1466,Electronics,Philips,1321.19,31
+1467,Office Supplie Product 1467,Office Supplies,Samsung,365.49,28
+1468,Furniture Product 1468,Furniture,HP,975.89,45
+1469,Electronic Product 1469,Electronics,Lenovo,1287.09,119
+1470,Home Appliance Product 1470,Home Appliances,Ikea,1056.38,199
+1471,Sport Product 1471,Sports,LG,107.68,76
+1472,Sport Product 1472,Sports,HP,36.04,73
+1473,Home Appliance Product 1473,Home Appliances,Ikea,1857.52,40
+1474,Clothing Product 1474,Clothing,Dell,728.24,126
+1475,Office Supplie Product 1475,Office Supplies,Nike,1590.56,34
+1476,Office Supplie Product 1476,Office Supplies,Lenovo,538.97,30
+1477,Home Appliance Product 1477,Home Appliances,HP,1670.57,39
+1478,Furniture Product 1478,Furniture,Philips,203.27,79
+1479,Sport Product 1479,Sports,Adidas,387.03,154
+1480,Home Appliance Product 1480,Home Appliances,Sony,1144.36,65
+1481,Sport Product 1481,Sports,Philips,836.22,47
+1482,Office Supplie Product 1482,Office Supplies,Lenovo,722.35,137
+1483,Home Appliance Product 1483,Home Appliances,Adidas,1766.82,62
+1484,Office Supplie Product 1484,Office Supplies,Samsung,1104.43,149
+1485,Grocery Product 1485,Grocery,Samsung,1072.46,173
+1486,Clothing Product 1486,Clothing,Nike,1805.95,160
+1487,Grocery Product 1487,Grocery,Nike,830.56,182
+1488,Clothing Product 1488,Clothing,Nike,1220.74,164
+1489,Sport Product 1489,Sports,Sony,756.38,160
+1490,Home Appliance Product 1490,Home Appliances,LG,726.42,135
+1491,Clothing Product 1491,Clothing,Adidas,10.39,28
+1492,Grocery Product 1492,Grocery,Lenovo,42.44,54
+1493,Grocery Product 1493,Grocery,Dell,607.66,76
+1494,Furniture Product 1494,Furniture,Nike,53.19,196
+1495,Office Supplie Product 1495,Office Supplies,LG,1839.03,150
+1496,Sport Product 1496,Sports,Lenovo,1852.59,59
+1497,Electronic Product 1497,Electronics,Dell,926.14,59
+1498,Furniture Product 1498,Furniture,LG,740.49,169
+1499,Furniture Product 1499,Furniture,Sony,519.93,96
+1500,Electronic Product 1500,Electronics,Lenovo,805.6,75
+1501,Home Appliance Product 1501,Home Appliances,HP,1449.93,143
+1502,Furniture Product 1502,Furniture,Ikea,1653.15,196
+1503,Home Appliance Product 1503,Home Appliances,Lenovo,1640.84,44
+1504,Sport Product 1504,Sports,LG,84.37,167
+1505,Clothing Product 1505,Clothing,HP,1562.44,105
+1506,Grocery Product 1506,Grocery,Adidas,838.88,50
+1507,Office Supplie Product 1507,Office Supplies,Sony,1497.88,174
+1508,Electronic Product 1508,Electronics,Adidas,117.71,154
+1509,Electronic Product 1509,Electronics,Nike,1084.46,58
+1510,Grocery Product 1510,Grocery,Philips,1398.56,59
+1511,Electronic Product 1511,Electronics,Adidas,1942.37,172
+1512,Sport Product 1512,Sports,Philips,189.27,130
+1513,Grocery Product 1513,Grocery,Adidas,304.54,106
+1514,Electronic Product 1514,Electronics,Ikea,1147.17,32
+1515,Sport Product 1515,Sports,Adidas,532.49,122
+1516,Sport Product 1516,Sports,Adidas,1549.91,53
+1517,Office Supplie Product 1517,Office Supplies,Samsung,967.04,70
+1518,Clothing Product 1518,Clothing,Adidas,1307.97,70
+1519,Sport Product 1519,Sports,Lenovo,1994.19,154
+1520,Furniture Product 1520,Furniture,Sony,152.57,130
+1521,Grocery Product 1521,Grocery,Lenovo,188.29,191
+1522,Clothing Product 1522,Clothing,Adidas,736.88,68
+1523,Grocery Product 1523,Grocery,Nike,1191.82,26
+1524,Office Supplie Product 1524,Office Supplies,LG,346.82,109
+1525,Sport Product 1525,Sports,Ikea,1250.13,132
+1526,Electronic Product 1526,Electronics,Sony,407.37,115
+1527,Furniture Product 1527,Furniture,HP,233.62,33
+1528,Furniture Product 1528,Furniture,Lenovo,1854.19,93
+1529,Electronic Product 1529,Electronics,Nike,1390.65,48
+1530,Grocery Product 1530,Grocery,Ikea,947.67,104
+1531,Furniture Product 1531,Furniture,Philips,431.63,159
+1532,Sport Product 1532,Sports,LG,1102.11,179
+1533,Home Appliance Product 1533,Home Appliances,Samsung,1393.19,191
+1534,Electronic Product 1534,Electronics,Adidas,1170.18,189
+1535,Sport Product 1535,Sports,Dell,518.36,35
+1536,Grocery Product 1536,Grocery,Sony,1580.49,178
+1537,Grocery Product 1537,Grocery,Dell,935.27,22
+1538,Electronic Product 1538,Electronics,Adidas,1324.14,189
+1539,Office Supplie Product 1539,Office Supplies,Nike,1729.92,24
+1540,Grocery Product 1540,Grocery,Adidas,470.03,117
+1541,Sport Product 1541,Sports,HP,1808.71,144
+1542,Office Supplie Product 1542,Office Supplies,Lenovo,1067.81,67
+1543,Furniture Product 1543,Furniture,Philips,1933.91,163
+1544,Home Appliance Product 1544,Home Appliances,Dell,89.11,155
+1545,Grocery Product 1545,Grocery,Nike,984.97,60
+1546,Electronic Product 1546,Electronics,Nike,1371.78,110
+1547,Home Appliance Product 1547,Home Appliances,LG,480.05,148
+1548,Grocery Product 1548,Grocery,Dell,1255.33,119
+1549,Office Supplie Product 1549,Office Supplies,Dell,1888.83,91
+1550,Furniture Product 1550,Furniture,Samsung,690.15,120
+1551,Home Appliance Product 1551,Home Appliances,Samsung,184.71,117
+1552,Sport Product 1552,Sports,Lenovo,1746.68,195
+1553,Furniture Product 1553,Furniture,Adidas,488.32,59
+1554,Clothing Product 1554,Clothing,LG,1820.37,104
+1555,Clothing Product 1555,Clothing,Philips,272.23,187
+1556,Furniture Product 1556,Furniture,Lenovo,1087.29,71
+1557,Office Supplie Product 1557,Office Supplies,Samsung,624.91,200
+1558,Sport Product 1558,Sports,Samsung,865.83,57
+1559,Home Appliance Product 1559,Home Appliances,Lenovo,1835.05,101
+1560,Electronic Product 1560,Electronics,Philips,1070.59,50
+1561,Furniture Product 1561,Furniture,Nike,1680.65,57
+1562,Home Appliance Product 1562,Home Appliances,Dell,1533.22,125
+1563,Clothing Product 1563,Clothing,LG,891.58,183
+1564,Home Appliance Product 1564,Home Appliances,LG,312.39,68
+1565,Electronic Product 1565,Electronics,Samsung,377.65,176
+1566,Sport Product 1566,Sports,LG,1215.15,176
+1567,Furniture Product 1567,Furniture,Lenovo,472.04,195
+1568,Electronic Product 1568,Electronics,Nike,168.16,142
+1569,Furniture Product 1569,Furniture,Philips,1693.82,140
+1570,Home Appliance Product 1570,Home Appliances,Nike,376.11,119
+1571,Clothing Product 1571,Clothing,Ikea,283.65,69
+1572,Furniture Product 1572,Furniture,Dell,823.09,23
+1573,Grocery Product 1573,Grocery,Adidas,452.88,191
+1574,Furniture Product 1574,Furniture,Sony,141.61,132
+1575,Office Supplie Product 1575,Office Supplies,Lenovo,984.99,103
+1576,Office Supplie Product 1576,Office Supplies,Ikea,1776.3,129
+1577,Clothing Product 1577,Clothing,Dell,1219.78,117
+1578,Home Appliance Product 1578,Home Appliances,Nike,794.36,166
+1579,Sport Product 1579,Sports,Philips,1055.21,200
+1580,Office Supplie Product 1580,Office Supplies,Dell,1046.09,135
+1581,Clothing Product 1581,Clothing,Dell,1756.78,82
+1582,Sport Product 1582,Sports,Philips,797.27,30
+1583,Sport Product 1583,Sports,Adidas,1037.09,181
+1584,Electronic Product 1584,Electronics,Sony,589.45,121
+1585,Grocery Product 1585,Grocery,LG,928.08,128
+1586,Grocery Product 1586,Grocery,Lenovo,1838.88,196
+1587,Sport Product 1587,Sports,Samsung,932.52,185
+1588,Clothing Product 1588,Clothing,HP,1448.07,48
+1589,Furniture Product 1589,Furniture,Lenovo,1876.31,198
+1590,Sport Product 1590,Sports,Samsung,792.2,102
+1591,Clothing Product 1591,Clothing,Dell,365.97,171
+1592,Home Appliance Product 1592,Home Appliances,Sony,1766.27,43
+1593,Grocery Product 1593,Grocery,Nike,1386.52,61
+1594,Home Appliance Product 1594,Home Appliances,HP,191.47,200
+1595,Clothing Product 1595,Clothing,Nike,179.76,118
+1596,Home Appliance Product 1596,Home Appliances,Philips,1228.02,60
+1597,Clothing Product 1597,Clothing,Philips,767.41,63
+1598,Grocery Product 1598,Grocery,Lenovo,1743.9,58
+1599,Furniture Product 1599,Furniture,Samsung,365.94,33
+1600,Clothing Product 1600,Clothing,LG,625.94,134
+1601,Grocery Product 1601,Grocery,Samsung,243.93,53
+1602,Furniture Product 1602,Furniture,Dell,1248.9,84
+1603,Electronic Product 1603,Electronics,Ikea,1000.28,147
+1604,Sport Product 1604,Sports,Dell,1219.89,146
+1605,Furniture Product 1605,Furniture,Sony,1181.84,141
+1606,Clothing Product 1606,Clothing,Adidas,889.33,173
+1607,Sport Product 1607,Sports,Dell,496.98,160
+1608,Grocery Product 1608,Grocery,Lenovo,1260.98,73
+1609,Electronic Product 1609,Electronics,Samsung,305.03,187
+1610,Grocery Product 1610,Grocery,Dell,299.3,28
+1611,Home Appliance Product 1611,Home Appliances,Lenovo,1677.65,96
+1612,Grocery Product 1612,Grocery,HP,107.57,126
+1613,Furniture Product 1613,Furniture,Samsung,1347.46,176
+1614,Home Appliance Product 1614,Home Appliances,Lenovo,1148.84,163
+1615,Furniture Product 1615,Furniture,Ikea,1501.18,112
+1616,Electronic Product 1616,Electronics,HP,1539.34,102
+1617,Grocery Product 1617,Grocery,Adidas,1642.33,129
+1618,Office Supplie Product 1618,Office Supplies,Philips,139.2,140
+1619,Furniture Product 1619,Furniture,HP,1392.29,90
+1620,Grocery Product 1620,Grocery,Philips,833.38,73
+1621,Home Appliance Product 1621,Home Appliances,Sony,1227.99,47
+1622,Sport Product 1622,Sports,Philips,1974.51,143
+1623,Home Appliance Product 1623,Home Appliances,Lenovo,1868.44,200
+1624,Grocery Product 1624,Grocery,Adidas,1221.6,101
+1625,Grocery Product 1625,Grocery,Philips,1154.53,179
+1626,Grocery Product 1626,Grocery,Samsung,1232.44,147
+1627,Sport Product 1627,Sports,Ikea,990.08,66
+1628,Sport Product 1628,Sports,Sony,1420.09,69
+1629,Electronic Product 1629,Electronics,HP,57.73,180
+1630,Office Supplie Product 1630,Office Supplies,HP,1477.56,73
+1631,Office Supplie Product 1631,Office Supplies,Lenovo,1997.98,125
+1632,Electronic Product 1632,Electronics,Nike,705.8,183
+1633,Furniture Product 1633,Furniture,Dell,1284.83,196
+1634,Grocery Product 1634,Grocery,LG,1582.49,98
+1635,Grocery Product 1635,Grocery,Philips,1104.49,21
+1636,Electronic Product 1636,Electronics,Nike,689.31,165
+1637,Sport Product 1637,Sports,Dell,1665.77,69
+1638,Grocery Product 1638,Grocery,Nike,1845.34,142
+1639,Clothing Product 1639,Clothing,Dell,1294.85,143
+1640,Furniture Product 1640,Furniture,Ikea,1785.2,157
+1641,Grocery Product 1641,Grocery,Ikea,1570.14,125
+1642,Home Appliance Product 1642,Home Appliances,Dell,1671.86,96
+1643,Sport Product 1643,Sports,Nike,1114.8,24
+1644,Furniture Product 1644,Furniture,Lenovo,1374.13,110
+1645,Electronic Product 1645,Electronics,Samsung,568.12,27
+1646,Grocery Product 1646,Grocery,Adidas,1256.76,62
+1647,Sport Product 1647,Sports,Lenovo,785.24,172
+1648,Electronic Product 1648,Electronics,LG,1413.48,100
+1649,Home Appliance Product 1649,Home Appliances,Dell,550.28,42
+1650,Clothing Product 1650,Clothing,Sony,749.45,97
+1651,Furniture Product 1651,Furniture,Philips,611.61,48
+1652,Grocery Product 1652,Grocery,Dell,1557.8,43
+1653,Clothing Product 1653,Clothing,Philips,59.62,143
+1654,Sport Product 1654,Sports,Samsung,388.52,143
+1655,Home Appliance Product 1655,Home Appliances,Philips,627.61,103
+1656,Furniture Product 1656,Furniture,HP,1646.06,152
+1657,Home Appliance Product 1657,Home Appliances,Samsung,418.32,29
+1658,Clothing Product 1658,Clothing,Adidas,1430.22,153
+1659,Electronic Product 1659,Electronics,Dell,628.85,31
+1660,Home Appliance Product 1660,Home Appliances,Lenovo,1745.03,105
+1661,Clothing Product 1661,Clothing,Dell,215.17,188
+1662,Home Appliance Product 1662,Home Appliances,LG,54.74,99
+1663,Home Appliance Product 1663,Home Appliances,Sony,648.55,69
+1664,Grocery Product 1664,Grocery,LG,1069.23,132
+1665,Home Appliance Product 1665,Home Appliances,HP,552.58,60
+1666,Grocery Product 1666,Grocery,HP,40.36,179
+1667,Sport Product 1667,Sports,Philips,213.73,158
+1668,Grocery Product 1668,Grocery,Philips,643.78,56
+1669,Home Appliance Product 1669,Home Appliances,LG,1152.43,63
+1670,Electronic Product 1670,Electronics,LG,1230.39,106
+1671,Sport Product 1671,Sports,Ikea,110.95,27
+1672,Clothing Product 1672,Clothing,Dell,220.79,33
+1673,Electronic Product 1673,Electronics,Adidas,789.91,200
+1674,Sport Product 1674,Sports,Lenovo,1262.65,196
+1675,Home Appliance Product 1675,Home Appliances,Ikea,1236.47,99
+1676,Grocery Product 1676,Grocery,Sony,1428.67,191
+1677,Office Supplie Product 1677,Office Supplies,Philips,166.31,139
+1678,Sport Product 1678,Sports,Samsung,194.9,198
+1679,Clothing Product 1679,Clothing,HP,916.61,195
+1680,Home Appliance Product 1680,Home Appliances,Ikea,946.39,77
+1681,Furniture Product 1681,Furniture,Lenovo,523.53,113
+1682,Clothing Product 1682,Clothing,Samsung,1402.23,190
+1683,Grocery Product 1683,Grocery,Nike,912.03,27
+1684,Electronic Product 1684,Electronics,Ikea,234.65,142
+1685,Clothing Product 1685,Clothing,Samsung,571.69,109
+1686,Sport Product 1686,Sports,Lenovo,263.51,46
+1687,Clothing Product 1687,Clothing,HP,658.48,186
+1688,Electronic Product 1688,Electronics,LG,1070.16,122
+1689,Sport Product 1689,Sports,Adidas,484.76,82
+1690,Sport Product 1690,Sports,Samsung,1948.04,118
+1691,Electronic Product 1691,Electronics,Nike,424.39,197
+1692,Sport Product 1692,Sports,Adidas,1570.78,131
+1693,Sport Product 1693,Sports,Nike,1093.61,80
+1694,Furniture Product 1694,Furniture,HP,1481.34,166
+1695,Office Supplie Product 1695,Office Supplies,Ikea,237.5,172
+1696,Clothing Product 1696,Clothing,Nike,1114.62,133
+1697,Furniture Product 1697,Furniture,LG,1912.21,37
+1698,Sport Product 1698,Sports,HP,1374.16,172
+1699,Office Supplie Product 1699,Office Supplies,Adidas,661.54,185
+1700,Home Appliance Product 1700,Home Appliances,Dell,190.16,55
+1701,Sport Product 1701,Sports,Dell,1516.58,189
+1702,Furniture Product 1702,Furniture,Ikea,1067.2,119
+1703,Sport Product 1703,Sports,Lenovo,899.85,72
+1704,Home Appliance Product 1704,Home Appliances,Nike,606.47,193
+1705,Grocery Product 1705,Grocery,Adidas,1438.4,108
+1706,Electronic Product 1706,Electronics,Lenovo,26.16,150
+1707,Clothing Product 1707,Clothing,Samsung,1706.49,35
+1708,Grocery Product 1708,Grocery,Philips,1936.12,20
+1709,Home Appliance Product 1709,Home Appliances,Philips,1643.3,111
+1710,Electronic Product 1710,Electronics,LG,1732.7,80
+1711,Clothing Product 1711,Clothing,Lenovo,794.59,101
+1712,Home Appliance Product 1712,Home Appliances,Adidas,818.0,131
+1713,Sport Product 1713,Sports,Sony,1328.35,141
+1714,Furniture Product 1714,Furniture,Sony,1115.29,112
+1715,Office Supplie Product 1715,Office Supplies,Adidas,316.99,191
+1716,Furniture Product 1716,Furniture,Samsung,33.09,185
+1717,Electronic Product 1717,Electronics,Samsung,1445.47,144
+1718,Home Appliance Product 1718,Home Appliances,Adidas,1950.2,54
+1719,Electronic Product 1719,Electronics,Samsung,1288.06,126
+1720,Office Supplie Product 1720,Office Supplies,Ikea,1788.23,198
+1721,Sport Product 1721,Sports,Adidas,1250.26,136
+1722,Sport Product 1722,Sports,Adidas,1108.58,135
+1723,Clothing Product 1723,Clothing,Nike,459.22,128
+1724,Sport Product 1724,Sports,Dell,1160.1,80
+1725,Home Appliance Product 1725,Home Appliances,Philips,545.81,159
+1726,Sport Product 1726,Sports,Nike,76.59,29
+1727,Sport Product 1727,Sports,Ikea,1412.72,48
+1728,Sport Product 1728,Sports,Ikea,1923.86,40
+1729,Furniture Product 1729,Furniture,Philips,1967.32,91
+1730,Clothing Product 1730,Clothing,Philips,165.69,176
+1731,Electronic Product 1731,Electronics,Sony,950.18,189
+1732,Home Appliance Product 1732,Home Appliances,HP,1371.31,158
+1733,Office Supplie Product 1733,Office Supplies,Lenovo,631.87,33
+1734,Grocery Product 1734,Grocery,Philips,1559.27,140
+1735,Clothing Product 1735,Clothing,Philips,1813.05,166
+1736,Home Appliance Product 1736,Home Appliances,Nike,847.82,95
+1737,Grocery Product 1737,Grocery,Samsung,80.3,172
+1738,Home Appliance Product 1738,Home Appliances,LG,1456.67,164
+1739,Grocery Product 1739,Grocery,Dell,1262.31,168
+1740,Furniture Product 1740,Furniture,Lenovo,112.72,94
+1741,Office Supplie Product 1741,Office Supplies,Lenovo,64.32,144
+1742,Electronic Product 1742,Electronics,Samsung,1016.14,91
+1743,Grocery Product 1743,Grocery,Samsung,1235.44,90
+1744,Office Supplie Product 1744,Office Supplies,LG,38.26,48
+1745,Sport Product 1745,Sports,Samsung,1821.16,58
+1746,Home Appliance Product 1746,Home Appliances,Ikea,745.84,64
+1747,Grocery Product 1747,Grocery,Sony,974.99,155
+1748,Office Supplie Product 1748,Office Supplies,Dell,692.27,41
+1749,Furniture Product 1749,Furniture,Lenovo,1868.54,59
+1750,Office Supplie Product 1750,Office Supplies,Ikea,1507.99,125
+1751,Office Supplie Product 1751,Office Supplies,Adidas,483.52,132
+1752,Home Appliance Product 1752,Home Appliances,Samsung,429.6,108
+1753,Electronic Product 1753,Electronics,LG,1513.41,49
+1754,Electronic Product 1754,Electronics,Samsung,933.39,141
+1755,Grocery Product 1755,Grocery,Ikea,1494.84,156
+1756,Furniture Product 1756,Furniture,Adidas,1370.18,119
+1757,Clothing Product 1757,Clothing,LG,298.85,131
+1758,Electronic Product 1758,Electronics,LG,1855.17,134
+1759,Clothing Product 1759,Clothing,Nike,1923.91,194
+1760,Electronic Product 1760,Electronics,HP,1836.25,183
+1761,Grocery Product 1761,Grocery,Adidas,1224.87,186
+1762,Office Supplie Product 1762,Office Supplies,LG,676.59,88
+1763,Office Supplie Product 1763,Office Supplies,HP,518.13,169
+1764,Clothing Product 1764,Clothing,Ikea,1548.57,81
+1765,Home Appliance Product 1765,Home Appliances,Lenovo,1543.29,153
+1766,Grocery Product 1766,Grocery,Samsung,633.41,22
+1767,Home Appliance Product 1767,Home Appliances,Dell,1665.06,23
+1768,Clothing Product 1768,Clothing,HP,1055.28,195
+1769,Clothing Product 1769,Clothing,Nike,446.64,92
+1770,Grocery Product 1770,Grocery,Sony,77.74,178
+1771,Electronic Product 1771,Electronics,Dell,1877.63,188
+1772,Office Supplie Product 1772,Office Supplies,Sony,1901.47,183
+1773,Electronic Product 1773,Electronics,HP,181.91,174
+1774,Furniture Product 1774,Furniture,Adidas,1316.23,185
+1775,Sport Product 1775,Sports,Samsung,1793.04,198
+1776,Furniture Product 1776,Furniture,LG,596.19,189
+1777,Electronic Product 1777,Electronics,Ikea,1846.16,90
+1778,Office Supplie Product 1778,Office Supplies,Adidas,1387.52,190
+1779,Office Supplie Product 1779,Office Supplies,Nike,522.1,38
+1780,Grocery Product 1780,Grocery,Dell,771.77,105
+1781,Electronic Product 1781,Electronics,LG,1911.66,87
+1782,Furniture Product 1782,Furniture,Ikea,148.1,71
+1783,Sport Product 1783,Sports,Adidas,365.1,145
+1784,Electronic Product 1784,Electronics,Samsung,1085.86,130
+1785,Furniture Product 1785,Furniture,Lenovo,1290.24,133
+1786,Home Appliance Product 1786,Home Appliances,LG,215.54,38
+1787,Electronic Product 1787,Electronics,Lenovo,1457.81,134
+1788,Electronic Product 1788,Electronics,Ikea,306.22,183
+1789,Electronic Product 1789,Electronics,Dell,1332.57,88
+1790,Furniture Product 1790,Furniture,Nike,1810.19,167
+1791,Electronic Product 1791,Electronics,Philips,1418.14,145
+1792,Clothing Product 1792,Clothing,Adidas,813.79,37
+1793,Sport Product 1793,Sports,Sony,16.58,196
+1794,Office Supplie Product 1794,Office Supplies,Ikea,251.2,157
+1795,Grocery Product 1795,Grocery,Nike,1366.85,122
+1796,Electronic Product 1796,Electronics,HP,737.06,107
+1797,Electronic Product 1797,Electronics,Ikea,1523.3,94
+1798,Home Appliance Product 1798,Home Appliances,Sony,361.47,30
+1799,Clothing Product 1799,Clothing,Sony,604.75,119
+1800,Electronic Product 1800,Electronics,Nike,978.14,181
+1801,Clothing Product 1801,Clothing,Sony,288.49,69
+1802,Electronic Product 1802,Electronics,Lenovo,484.59,119
+1803,Electronic Product 1803,Electronics,Philips,1290.38,147
+1804,Sport Product 1804,Sports,Ikea,1933.48,24
+1805,Electronic Product 1805,Electronics,Nike,121.55,30
+1806,Clothing Product 1806,Clothing,HP,431.24,187
+1807,Home Appliance Product 1807,Home Appliances,Philips,922.16,193
+1808,Office Supplie Product 1808,Office Supplies,Philips,306.42,168
+1809,Furniture Product 1809,Furniture,HP,83.39,56
+1810,Clothing Product 1810,Clothing,Dell,947.73,178
+1811,Electronic Product 1811,Electronics,Sony,1405.58,53
+1812,Electronic Product 1812,Electronics,Samsung,1269.0,98
+1813,Office Supplie Product 1813,Office Supplies,HP,917.81,63
+1814,Office Supplie Product 1814,Office Supplies,Lenovo,137.28,47
+1815,Electronic Product 1815,Electronics,Ikea,1194.01,177
+1816,Furniture Product 1816,Furniture,HP,1610.86,129
+1817,Grocery Product 1817,Grocery,Adidas,655.23,195
+1818,Sport Product 1818,Sports,Philips,283.29,74
+1819,Office Supplie Product 1819,Office Supplies,Dell,1190.24,105
+1820,Electronic Product 1820,Electronics,HP,555.05,126
+1821,Furniture Product 1821,Furniture,Nike,1111.28,132
+1822,Furniture Product 1822,Furniture,Lenovo,90.99,45
+1823,Office Supplie Product 1823,Office Supplies,Lenovo,758.5,60
+1824,Electronic Product 1824,Electronics,Ikea,170.64,21
+1825,Furniture Product 1825,Furniture,HP,1416.42,171
+1826,Grocery Product 1826,Grocery,Adidas,1390.07,141
+1827,Home Appliance Product 1827,Home Appliances,Samsung,420.26,183
+1828,Grocery Product 1828,Grocery,Philips,906.33,81
+1829,Furniture Product 1829,Furniture,Lenovo,1386.43,172
+1830,Furniture Product 1830,Furniture,Ikea,1227.98,42
+1831,Home Appliance Product 1831,Home Appliances,LG,702.23,21
+1832,Sport Product 1832,Sports,Sony,391.89,155
+1833,Electronic Product 1833,Electronics,Lenovo,730.18,158
+1834,Sport Product 1834,Sports,Sony,933.79,180
+1835,Home Appliance Product 1835,Home Appliances,Sony,560.09,69
+1836,Electronic Product 1836,Electronics,Samsung,1373.64,141
+1837,Clothing Product 1837,Clothing,Samsung,327.92,31
+1838,Electronic Product 1838,Electronics,Nike,577.28,131
+1839,Grocery Product 1839,Grocery,Nike,1237.47,136
+1840,Electronic Product 1840,Electronics,HP,1483.43,157
+1841,Furniture Product 1841,Furniture,Samsung,1573.13,144
+1842,Sport Product 1842,Sports,HP,151.01,80
+1843,Home Appliance Product 1843,Home Appliances,Ikea,1189.49,103
+1844,Clothing Product 1844,Clothing,Sony,1496.7,103
+1845,Furniture Product 1845,Furniture,HP,659.0,45
+1846,Furniture Product 1846,Furniture,Adidas,1741.07,116
+1847,Furniture Product 1847,Furniture,HP,947.27,144
+1848,Electronic Product 1848,Electronics,Adidas,298.43,176
+1849,Clothing Product 1849,Clothing,Samsung,780.79,54
+1850,Clothing Product 1850,Clothing,Sony,1267.72,89
+1851,Furniture Product 1851,Furniture,Nike,263.15,197
+1852,Sport Product 1852,Sports,Dell,568.4,48
+1853,Office Supplie Product 1853,Office Supplies,Ikea,922.57,63
+1854,Office Supplie Product 1854,Office Supplies,Nike,447.51,95
+1855,Sport Product 1855,Sports,Samsung,1581.2,183
+1856,Sport Product 1856,Sports,Samsung,1160.46,161
+1857,Office Supplie Product 1857,Office Supplies,Sony,182.08,153
+1858,Clothing Product 1858,Clothing,Sony,1187.25,138
+1859,Grocery Product 1859,Grocery,Dell,1462.74,83
+1860,Furniture Product 1860,Furniture,Nike,874.15,76
+1861,Sport Product 1861,Sports,Samsung,1828.37,21
+1862,Clothing Product 1862,Clothing,Dell,89.72,140
+1863,Home Appliance Product 1863,Home Appliances,Philips,76.9,155
+1864,Clothing Product 1864,Clothing,Ikea,1621.34,198
+1865,Office Supplie Product 1865,Office Supplies,HP,910.36,81
+1866,Electronic Product 1866,Electronics,Philips,1508.63,197
+1867,Home Appliance Product 1867,Home Appliances,Adidas,1900.37,53
+1868,Grocery Product 1868,Grocery,LG,485.73,43
+1869,Electronic Product 1869,Electronics,Ikea,1341.38,61
+1870,Home Appliance Product 1870,Home Appliances,Ikea,1717.27,169
+1871,Electronic Product 1871,Electronics,Ikea,932.88,55
+1872,Office Supplie Product 1872,Office Supplies,Adidas,378.04,114
+1873,Home Appliance Product 1873,Home Appliances,Ikea,1410.77,20
+1874,Office Supplie Product 1874,Office Supplies,HP,775.91,196
+1875,Grocery Product 1875,Grocery,Philips,75.1,129
+1876,Office Supplie Product 1876,Office Supplies,LG,1399.13,176
+1877,Sport Product 1877,Sports,Lenovo,1591.01,195
+1878,Electronic Product 1878,Electronics,Lenovo,1762.89,34
+1879,Sport Product 1879,Sports,Nike,1777.08,48
+1880,Clothing Product 1880,Clothing,Nike,936.05,30
+1881,Grocery Product 1881,Grocery,Nike,358.78,163
+1882,Home Appliance Product 1882,Home Appliances,HP,1125.91,72
+1883,Furniture Product 1883,Furniture,Nike,484.88,49
+1884,Home Appliance Product 1884,Home Appliances,Ikea,1477.39,168
+1885,Office Supplie Product 1885,Office Supplies,Sony,1508.82,77
+1886,Grocery Product 1886,Grocery,Nike,1796.89,148
+1887,Home Appliance Product 1887,Home Appliances,Adidas,561.52,36
+1888,Grocery Product 1888,Grocery,Nike,910.3,148
+1889,Sport Product 1889,Sports,HP,945.63,156
+1890,Home Appliance Product 1890,Home Appliances,Philips,1799.91,135
+1891,Sport Product 1891,Sports,Nike,1601.81,197
+1892,Office Supplie Product 1892,Office Supplies,HP,384.82,137
+1893,Electronic Product 1893,Electronics,HP,787.46,65
+1894,Grocery Product 1894,Grocery,HP,227.64,90
+1895,Electronic Product 1895,Electronics,Samsung,997.69,72
+1896,Sport Product 1896,Sports,Dell,593.41,194
+1897,Sport Product 1897,Sports,Samsung,953.07,127
+1898,Clothing Product 1898,Clothing,Dell,590.12,36
+1899,Electronic Product 1899,Electronics,Sony,1671.55,153
+1900,Home Appliance Product 1900,Home Appliances,Nike,829.27,107
+1901,Home Appliance Product 1901,Home Appliances,Nike,977.44,190
+1902,Home Appliance Product 1902,Home Appliances,Philips,1685.4,133
+1903,Clothing Product 1903,Clothing,LG,1138.83,98
+1904,Furniture Product 1904,Furniture,LG,461.3,115
+1905,Grocery Product 1905,Grocery,Dell,305.19,92
+1906,Clothing Product 1906,Clothing,Samsung,1241.07,61
+1907,Home Appliance Product 1907,Home Appliances,Philips,577.64,64
+1908,Office Supplie Product 1908,Office Supplies,Samsung,330.9,49
+1909,Electronic Product 1909,Electronics,Nike,1153.31,132
+1910,Grocery Product 1910,Grocery,Nike,377.15,163
+1911,Home Appliance Product 1911,Home Appliances,Dell,1334.45,108
+1912,Furniture Product 1912,Furniture,Nike,902.37,61
+1913,Sport Product 1913,Sports,LG,251.77,26
+1914,Clothing Product 1914,Clothing,Ikea,1539.35,137
+1915,Grocery Product 1915,Grocery,Samsung,18.55,159
+1916,Sport Product 1916,Sports,Nike,1298.02,95
+1917,Clothing Product 1917,Clothing,LG,1939.52,166
+1918,Home Appliance Product 1918,Home Appliances,Samsung,1601.16,133
+1919,Grocery Product 1919,Grocery,HP,1465.96,30
+1920,Furniture Product 1920,Furniture,Philips,242.58,26
+1921,Clothing Product 1921,Clothing,Lenovo,1683.35,134
+1922,Grocery Product 1922,Grocery,HP,659.47,175
+1923,Home Appliance Product 1923,Home Appliances,Sony,1171.03,76
+1924,Office Supplie Product 1924,Office Supplies,LG,399.47,41
+1925,Sport Product 1925,Sports,Ikea,1357.36,42
+1926,Sport Product 1926,Sports,Adidas,396.96,101
+1927,Sport Product 1927,Sports,Lenovo,1028.0,34
+1928,Home Appliance Product 1928,Home Appliances,Nike,801.14,129
+1929,Grocery Product 1929,Grocery,Adidas,751.93,92
+1930,Grocery Product 1930,Grocery,Nike,623.09,134
+1931,Office Supplie Product 1931,Office Supplies,Philips,184.32,133
+1932,Home Appliance Product 1932,Home Appliances,Adidas,1609.33,93
+1933,Furniture Product 1933,Furniture,Adidas,1459.92,126
+1934,Furniture Product 1934,Furniture,Lenovo,1199.89,56
+1935,Furniture Product 1935,Furniture,LG,954.48,154
+1936,Grocery Product 1936,Grocery,HP,1866.97,171
+1937,Office Supplie Product 1937,Office Supplies,Adidas,186.01,124
+1938,Home Appliance Product 1938,Home Appliances,LG,834.88,162
+1939,Clothing Product 1939,Clothing,Lenovo,1512.94,55
+1940,Furniture Product 1940,Furniture,Samsung,1666.24,94
+1941,Sport Product 1941,Sports,Ikea,94.04,97
+1942,Office Supplie Product 1942,Office Supplies,Lenovo,614.79,163
+1943,Home Appliance Product 1943,Home Appliances,Ikea,456.8,20
+1944,Furniture Product 1944,Furniture,LG,607.34,183
+1945,Office Supplie Product 1945,Office Supplies,Ikea,257.11,190
+1946,Grocery Product 1946,Grocery,Adidas,366.95,196
+1947,Home Appliance Product 1947,Home Appliances,Sony,66.6,90
+1948,Clothing Product 1948,Clothing,HP,1201.79,112
+1949,Sport Product 1949,Sports,Ikea,1135.49,86
+1950,Home Appliance Product 1950,Home Appliances,Ikea,1948.77,50
+1951,Grocery Product 1951,Grocery,Philips,1468.58,24
+1952,Office Supplie Product 1952,Office Supplies,LG,334.07,34
+1953,Furniture Product 1953,Furniture,Nike,927.48,197
+1954,Furniture Product 1954,Furniture,Nike,334.98,89
+1955,Grocery Product 1955,Grocery,Adidas,1276.13,111
+1956,Electronic Product 1956,Electronics,LG,590.41,183
+1957,Electronic Product 1957,Electronics,Philips,395.69,180
+1958,Furniture Product 1958,Furniture,HP,1201.54,62
+1959,Sport Product 1959,Sports,Nike,1746.16,195
+1960,Office Supplie Product 1960,Office Supplies,LG,550.2,198
+1961,Home Appliance Product 1961,Home Appliances,Nike,200.71,168
+1962,Grocery Product 1962,Grocery,Samsung,35.67,152
+1963,Grocery Product 1963,Grocery,Nike,1559.83,125
+1964,Grocery Product 1964,Grocery,Samsung,213.81,59
+1965,Sport Product 1965,Sports,Sony,1664.83,163
+1966,Sport Product 1966,Sports,Philips,1693.68,161
+1967,Home Appliance Product 1967,Home Appliances,HP,840.52,39
+1968,Electronic Product 1968,Electronics,Samsung,1847.59,142
+1969,Grocery Product 1969,Grocery,LG,1385.19,55
+1970,Office Supplie Product 1970,Office Supplies,Ikea,1780.56,172
+1971,Sport Product 1971,Sports,Nike,352.69,97
+1972,Electronic Product 1972,Electronics,HP,452.49,197
+1973,Furniture Product 1973,Furniture,Sony,621.78,73
+1974,Furniture Product 1974,Furniture,HP,855.36,48
+1975,Electronic Product 1975,Electronics,Dell,1551.64,130
+1976,Electronic Product 1976,Electronics,Sony,224.56,188
+1977,Sport Product 1977,Sports,Lenovo,127.94,50
+1978,Grocery Product 1978,Grocery,Dell,141.83,190
+1979,Electronic Product 1979,Electronics,HP,1566.92,174
+1980,Furniture Product 1980,Furniture,Lenovo,1803.34,67
+1981,Home Appliance Product 1981,Home Appliances,Nike,68.23,57
+1982,Office Supplie Product 1982,Office Supplies,LG,1898.1,109
+1983,Grocery Product 1983,Grocery,Samsung,1711.72,176
+1984,Furniture Product 1984,Furniture,Philips,1144.77,45
+1985,Office Supplie Product 1985,Office Supplies,Lenovo,1528.86,155
+1986,Furniture Product 1986,Furniture,Sony,1928.88,63
+1987,Office Supplie Product 1987,Office Supplies,Philips,18.61,45
+1988,Furniture Product 1988,Furniture,Philips,1704.08,141
+1989,Grocery Product 1989,Grocery,Lenovo,378.4,192
+1990,Electronic Product 1990,Electronics,Samsung,1671.14,117
+1991,Clothing Product 1991,Clothing,Sony,1033.36,124
+1992,Electronic Product 1992,Electronics,Nike,255.99,48
+1993,Sport Product 1993,Sports,Samsung,996.67,112
+1994,Home Appliance Product 1994,Home Appliances,LG,1118.69,30
+1995,Electronic Product 1995,Electronics,Nike,992.49,118
+1996,Grocery Product 1996,Grocery,Ikea,1204.78,99
+1997,Home Appliance Product 1997,Home Appliances,Ikea,459.49,124
+1998,Grocery Product 1998,Grocery,Adidas,385.68,37
+1999,Office Supplie Product 1999,Office Supplies,Ikea,1878.77,114
+2000,Furniture Product 2000,Furniture,Dell,1997.46,145
