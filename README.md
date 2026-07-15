@@ -201,6 +201,6 @@ Analyzes supplier efficiency and operational performance.
 
 ## 👨‍💻 Author
 
-**Yuvnik Nagpure**
+**Unique Nagpure**
 
 This project is part of my Data Engineering and Business Intelligence portfolio, showcasing practical experience in building enterprise-scale analytical dashboards using Power BI.
